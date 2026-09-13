@@ -19,6 +19,9 @@ export const account = style({
   border: `1px solid ${theme.border}`,
   backgroundColor: theme.surface,
   flexShrink: 0,
+  '@media': {
+    '(max-width: 560px)': { display: 'none' },
+  },
 });
 
 export const accountName = style({

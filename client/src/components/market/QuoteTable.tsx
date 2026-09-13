@@ -9,16 +9,17 @@ const COLUMNS: {
   key: SortKey | null;
   label: string;
   align?: 'left';
+  optional?: boolean;
 }[] = [
-  { key: null, label: '순위' },
+  { key: null, label: '순위', optional: true },
   { key: 'name', label: '종목 · 학과', align: 'left' },
   { key: 'price', label: '현재가' },
-  { key: 'high', label: '고가' },
-  { key: 'low', label: '저가' },
+  { key: 'high', label: '고가', optional: true },
+  { key: 'low', label: '저가', optional: true },
   { key: 'changeRate', label: '등락률' },
-  { key: null, label: '차트' },
+  { key: null, label: '차트', optional: true },
   { key: 'reviewCount', label: '리뷰' },
-  { key: 'marketCap', label: '시총' },
+  { key: 'marketCap', label: '시총', optional: true },
 ];
 
 interface Props {
@@ -47,7 +48,7 @@ function QuoteRow({
 
   return (
     <tr className={s.row} onClick={() => onOpen(row.code)}>
-      <td className={s.rank}>{rank}</td>
+      <td className={`${s.rank} ${s.optional}`}>{rank}</td>
       <td className={s.nameCell}>
         <span className={s.nameStack}>
           <Link className={s.name} to={`/stocks/${row.code}`}>
@@ -63,12 +64,12 @@ function QuoteRow({
           {formatPrice(row.price)}
         </span>
       </td>
-      <td className={s.td}>{formatPrice(row.high)}</td>
-      <td className={s.td}>{formatPrice(row.low)}</td>
+      <td className={`${s.td} ${s.optional}`}>{formatPrice(row.high)}</td>
+      <td className={`${s.td} ${s.optional}`}>{formatPrice(row.low)}</td>
       <td className={s.td}>
         <span className={delta[dir]}>{formatRate(row.changeRate)}</span>
       </td>
-      <td className={s.chartCell}>
+      <td className={`${s.chartCell} ${s.optional}`}>
         <span className={s.chartInner}>
           <Sparkline values={row.history} baseline={row.prevClose} />
         </span>
@@ -89,7 +90,9 @@ function QuoteRow({
           </span>
         </span>
       </td>
-      <td className={s.capCell}>{formatCap(row.marketCap)}</td>
+      <td className={`${s.capCell} ${s.optional}`}>
+        {formatCap(row.marketCap)}
+      </td>
     </tr>
   );
 }
@@ -121,7 +124,10 @@ export default function QuoteTable({
                 <th
                   key={col.label}
                   scope="col"
-                  className={col.align === 'left' ? s.thLeft : s.th}
+                  className={[
+                    col.align === 'left' ? s.thLeft : s.th,
+                    col.optional ? s.optional : '',
+                  ].join(' ')}
                   aria-sort={
                     col.key && col.key === sort
                       ? dir === 'asc'

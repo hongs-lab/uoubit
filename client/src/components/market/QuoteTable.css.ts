@@ -11,6 +11,15 @@ export const scroll = style({
 export const table = style({
   minWidth: '760px',
   ...numeric,
+  '@media': {
+    '(max-width: 720px)': { minWidth: 0 },
+  },
+});
+
+export const optional = style({
+  '@media': {
+    '(max-width: 720px)': { display: 'none' },
+  },
 });
 
 export const th = style({

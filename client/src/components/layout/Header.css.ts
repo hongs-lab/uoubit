@@ -14,6 +14,7 @@ export const inner = style({
   margin: '0 auto',
   height: '52px',
   padding: `0 ${space.lg}`,
+  '@media': { '(max-width: 380px)': { padding: `0 ${space.sm}`, gap: space.xs } },
   display: 'flex',
   alignItems: 'center',
   gap: space.md,
@@ -24,11 +25,12 @@ export const brand = style({
   alignItems: 'center',
   gap: space.sm,
   minWidth: 0,
-  overflow: 'hidden',
+  flexShrink: 0,
 });
 
 export const logo = style({
   height: '24px',
+  '@media': { '(max-width: 400px)': { height: '20px' } },
   width: 'auto',
   display: 'block',
   flexShrink: 0,
@@ -47,6 +49,8 @@ export const nav = style({
   gap: space.xs,
   marginLeft: space.md,
   minWidth: 0,
+  marginRight: 'auto',
+  flexShrink: 0,
   '@media': { '(max-width: 560px)': { marginLeft: space.sm } },
 });
 
@@ -60,7 +64,10 @@ const navItemBase = style({
   whiteSpace: 'nowrap',
   flexShrink: 0,
   transition: 'color 120ms ease, background-color 120ms ease',
-  '@media': { '(max-width: 560px)': { padding: `0 ${space.sm}` } },
+  '@media': {
+    '(max-width: 560px)': { padding: `0 ${space.sm}` },
+    '(max-width: 380px)': { padding: `0 ${space.xs}` },
+  },
 });
 
 export const navItem = styleVariants({
@@ -84,6 +91,9 @@ export const live = style({
   flexShrink: 0,
   whiteSpace: 'nowrap',
   ...numeric,
+  '@media': {
+    '(max-width: 680px)': { display: 'none' },
+  },
 });
 
 export const liveLabel = style({
