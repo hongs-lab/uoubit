@@ -1,0 +1,5 @@
+uoubit.example.com {
+	reverse_proxy localhost:5184 {
+		flush_interval -1
+	}
+}

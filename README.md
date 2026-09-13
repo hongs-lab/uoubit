@@ -1,11 +1,3 @@
-# 울산대 평점거래소
-
-별별선생의 울산대학교 교수 평점을 종목처럼 늘어놓고, 실제로 사고팔 수 있게 만든 판.
-
-**가격 = 실제 평점 × 10,000.** 73,333원은 평점 7.3333점이고, 되돌리면 언제나 원래
-평점이 나온다. 움직이는 건 평점이 아니라 호가다 — 시세는 평점을 중심으로 흔들릴 뿐
-중심값은 거래로 바뀌지 않는다. 리뷰가 적은 종목일수록 더 심하게 흔들린다.
-
 ## 구조
 
 ```
@@ -38,16 +30,50 @@ CORS 설정도, 세션 쿠키 도메인 문제도 없다.
 pnpm build && pnpm start   # 한 포트에서 화면 + API
 ```
 
-[render.yaml](render.yaml) 이 있어서 Render 는 저장소만 연결하면 된다.
-
-**무료 플랜은 디스크가 휘발이다** — 15분 무요청이면 잠들고, 깨어날 때
-계정·보유·체결이 전부 사라진다. 시세는 켜질 때 120틱을 미리 굴려서 바로
-정상으로 보이므로 화면은 멀쩡하다. 데이터를 남기려면 디스크가 붙은 곳
-(Oracle Cloud / GCP Always Free VM)에 올리거나 SQLite 를 Turso 같은
-외부 저장소로 빼야 한다.
-
 서버리스(Vercel·Netlify·Workers)는 맞지 않는다. 시세 엔진이 1초마다 도는
 상주 프로세스이고, SSE 가 장기 연결이며, SQLite 가 파일이기 때문이다.
+프런트만 따로 올리면 세션 쿠키가 `SameSite=Lax` 라 교차 사이트에서 전달되지
+않아 로그인이 깨진다.
+
+### Render (무료 · 데이터 안 남음)
+
+[render.yaml](render.yaml) 이 있어서 저장소만 연결하면 된다. 15분 무요청이면
+잠들고, 깨어날 때 계정·보유·체결이 전부 사라진다. 시세는 켜질 때 120틱을 미리
+굴려서 바로 정상으로 보이므로 화면 자체는 멀쩡하다.
+
+### Oracle Cloud / GCP Always Free VM (데이터 남음)
+
+`deploy/` 에 systemd 유닛과 Caddy 설정이 있다.
+
+```bash
+sudo ./deploy/setup.sh https://github.com/<user>/<repo>.git
+```
+
+DB 는 `/var/lib/uoubit/exchange.db` 에 둔다. systemd 의 `StateDirectory` 가
+만들고 권한까지 맞추므로, 코드를 갈아엎어도 계정과 체결 기록은 남는다.
+
+HTTPS 는 Caddy 가 Let's Encrypt 에서 자동으로 받아 갱신한다. `deploy/Caddyfile`
+의 도메인만 바꾸면 된다. 도메인이 없으면 DuckDNS 같은 무료 서브도메인이면
+충분하다.
+
+**`flush_interval -1` 을 지우지 말 것.** 리버스 프록시가 응답을 버퍼링하면
+SSE 가 흐르지 않아 시세가 멈춘 것처럼 보인다.
+
+**Oracle 은 방화벽이 두 겹이다.** 콘솔의 VCN 보안 목록만 열고 끝내면 접속이
+안 된다. 인스턴스 안의 iptables 도 같이 열어야 한다.
+
+```bash
+sudo iptables -I INPUT 6 -m state --state NEW -p tcp --dport 443 -j ACCEPT
+sudo iptables -I INPUT 6 -m state --state NEW -p tcp --dport 80 -j ACCEPT
+sudo netfilter-persistent save
+```
+
+배포 후 갱신:
+
+```bash
+cd /opt/uoubit && sudo -u uoubit git pull && sudo -u uoubit pnpm install --frozen-lockfile \
+  && sudo -u uoubit pnpm seed && sudo -u uoubit pnpm build && sudo systemctl restart uoubit
+```
 
 ## 거래 규칙
 

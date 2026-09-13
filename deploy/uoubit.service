@@ -1,0 +1,26 @@
+[Unit]
+Description=UOUbit
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=simple
+User=uoubit
+WorkingDirectory=/opt/uoubit
+
+StateDirectory=uoubit
+Environment=NODE_ENV=production
+Environment=PORT=5184
+Environment=DB_PATH=/var/lib/uoubit/exchange.db
+
+ExecStart=/usr/bin/node --no-warnings server/index.mjs
+Restart=always
+RestartSec=3
+
+NoNewPrivileges=true
+PrivateTmp=true
+ProtectSystem=strict
+ProtectHome=true
+
+[Install]
+WantedBy=multi-user.target
