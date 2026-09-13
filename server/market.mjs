@@ -35,10 +35,17 @@ export function tickSize(price) {
 }
 
 function hashQty(code, tick, level) {
-  let h = tick * 2654435761;
-  for (let i = 0; i < code.length; i += 1)
-    h = (h * 31 + code.charCodeAt(i)) | 0;
-  h = (h * 31 + level) | 0;
+  const seed = `${code}:${tick}:${level}`;
+  let h = 2166136261;
+  for (let i = 0; i < seed.length; i += 1) {
+    h ^= seed.charCodeAt(i);
+    h = Math.imul(h, 16777619);
+  }
+  h ^= h >>> 16;
+  h = Math.imul(h, 2246822507);
+  h ^= h >>> 13;
+  h = Math.imul(h, 3266489909);
+  h ^= h >>> 16;
   return 10 + (Math.abs(h) % 240);
 }
 
@@ -168,17 +175,17 @@ export class Market {
     const price = this.price(code);
     if (price === undefined) return null;
     const t = tickSize(price);
-    const mid = Math.round(price / t) * t;
+    const best = Math.floor(price / t) * t;
 
     const asks = [];
     const bids = [];
     for (let i = 0; i < levels; i += 1) {
       asks.push({
-        price: mid + t * (i + 1),
+        price: best + t * (i + 1),
         qty: hashQty(code, this.tickNo, i),
       });
       bids.push({
-        price: mid - t * i,
+        price: best - t * i,
         qty: hashQty(code, this.tickNo, -i - 1),
       });
     }
