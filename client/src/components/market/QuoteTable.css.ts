@@ -14,18 +14,33 @@ export const table = style({
 });
 
 export const th = style({
-  ...text.label,
-  color: theme.muted,
-  fontWeight: 400,
+  ...text.cell,
+  fontWeight: 600,
+  color: theme.ink,
   textAlign: 'right',
-  height: '30px',
+  height: '34px',
   padding: `0 ${space.sm}`,
   borderBottom: `1px solid ${theme.border}`,
-  backgroundColor: theme.control,
   whiteSpace: 'nowrap',
+  backgroundColor: theme.control,
   position: 'sticky',
   top: 0,
   zIndex: 1,
+});
+
+export const sortButton = style({
+  display: 'inline-flex',
+  alignItems: 'center',
+  gap: '2px',
+  font: 'inherit',
+  color: 'inherit',
+  padding: 0,
+  ':hover': { color: theme.accent },
+});
+
+export const arrow = styleVariants({
+  off: [style({ ...text.label, color: theme.border })],
+  on: [style({ ...text.label, color: theme.accent })],
 });
 
 export const thLeft = style([th, { textAlign: 'left' }]);

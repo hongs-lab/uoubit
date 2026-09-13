@@ -192,11 +192,11 @@ export default function Stock() {
 
         <a
           className={s.cta}
-          href={row.sourceUrl}
+          href="https://www.starteacher.co.kr/professor/institutes/552"
           target="_blank"
           rel="noreferrer noopener"
         >
-          별별선생에서 원문 리뷰 보기
+          별별선생에서 울산대 평점 보기
         </a>
 
         <RankList mode="rise" size={6} />

@@ -1,20 +1,13 @@
 import * as s from './FilterBar.css';
-import type { SortKey } from '@/types/market';
+import type { SortDir, SortKey } from '@/types/market';
 
 export interface Filters {
   keyword: string;
   sector: string;
   sort: SortKey;
+  dir: SortDir;
   trustedOnly: boolean;
 }
-
-const SORTS: { key: SortKey; label: string }[] = [
-  { key: 'marketCap', label: '시총' },
-  { key: 'changeRate', label: '등락률' },
-  { key: 'price', label: '평점' },
-  { key: 'reviewCount', label: '리뷰' },
-  { key: 'name', label: '이름' },
-];
 
 interface Props {
   filters: Filters;
@@ -56,22 +49,6 @@ export default function FilterBar({
           </option>
         ))}
       </select>
-
-      <span className={s.divider} aria-hidden="true" />
-
-      <div className={s.group} role="group" aria-label="정렬 기준">
-        {SORTS.map(({ key, label }) => (
-          <button
-            key={key}
-            type="button"
-            aria-pressed={filters.sort === key}
-            className={filters.sort === key ? s.tab.active : s.tab.idle}
-            onClick={() => set('sort', key)}
-          >
-            {label}
-          </button>
-        ))}
-      </div>
 
       <span className={s.divider} aria-hidden="true" />
 

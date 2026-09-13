@@ -10,7 +10,6 @@ export interface Listing {
   volatility: number;
   confidence: Confidence;
   marketCap: number;
-  sourceUrl: string;
 }
 
 export interface SectorSeed {
@@ -69,4 +68,12 @@ export interface MarketSnapshot {
 }
 
 export type SortKey =
-  'marketCap' | 'changeRate' | 'price' | 'reviewCount' | 'name';
+  | 'marketCap'
+  | 'changeRate'
+  | 'price'
+  | 'high'
+  | 'low'
+  | 'reviewCount'
+  | 'name';
+
+export type SortDir = 'asc' | 'desc';

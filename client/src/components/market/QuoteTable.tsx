@@ -2,19 +2,32 @@ import { Link, useNavigate } from 'react-router-dom';
 import * as s from './QuoteTable.css';
 import { delta } from '@/components/common/Delta.css';
 import Sparkline from '@/components/common/Sparkline';
-import {
-  direction,
-  formatCap,
-  formatPrice,
-  formatRate,
-  formatSigned,
-} from '@/market/format';
-import type { Row } from '@/types/market';
+import { direction, formatCap, formatPrice, formatRate } from '@/market/format';
+import type { Row, SortDir, SortKey } from '@/types/market';
+
+const COLUMNS: {
+  key: SortKey | null;
+  label: string;
+  align?: 'left';
+}[] = [
+  { key: null, label: '순위' },
+  { key: 'name', label: '종목 · 학과', align: 'left' },
+  { key: 'price', label: '현재가' },
+  { key: 'high', label: '고가' },
+  { key: 'low', label: '저가' },
+  { key: 'changeRate', label: '등락률' },
+  { key: null, label: '차트' },
+  { key: 'reviewCount', label: '리뷰' },
+  { key: 'marketCap', label: '시총' },
+];
 
 interface Props {
   rows: Row[];
   visible: number;
   maxReviews: number;
+  sort: SortKey;
+  dir: SortDir;
+  onSort: (key: SortKey) => void;
   onMore: () => void;
 }
 
@@ -50,11 +63,10 @@ function QuoteRow({
           {formatPrice(row.price)}
         </span>
       </td>
+      <td className={s.td}>{formatPrice(row.high)}</td>
+      <td className={s.td}>{formatPrice(row.low)}</td>
       <td className={s.td}>
         <span className={delta[dir]}>{formatRate(row.changeRate)}</span>
-      </td>
-      <td className={s.td}>
-        <span className={delta[dir]}>{formatSigned(row.change)}</span>
       </td>
       <td className={s.chartCell}>
         <span className={s.chartInner}>
@@ -86,6 +98,9 @@ export default function QuoteTable({
   rows,
   visible,
   maxReviews,
+  sort,
+  dir,
+  onSort,
   onMore,
 }: Props) {
   const navigate = useNavigate();
@@ -102,30 +117,38 @@ export default function QuoteTable({
           <caption className="sr-only">울산대학교 교수 평점 시세표</caption>
           <thead>
             <tr>
-              <th className={s.th} scope="col">
-                순위
-              </th>
-              <th className={s.thLeft} scope="col">
-                종목 · 학과
-              </th>
-              <th className={s.th} scope="col">
-                현재가
-              </th>
-              <th className={s.th} scope="col">
-                등락률
-              </th>
-              <th className={s.th} scope="col">
-                전일비
-              </th>
-              <th className={s.th} scope="col">
-                차트
-              </th>
-              <th className={s.th} scope="col">
-                리뷰
-              </th>
-              <th className={s.th} scope="col">
-                시총
-              </th>
+              {COLUMNS.map((col) => (
+                <th
+                  key={col.label}
+                  scope="col"
+                  className={col.align === 'left' ? s.thLeft : s.th}
+                  aria-sort={
+                    col.key && col.key === sort
+                      ? dir === 'asc'
+                        ? 'ascending'
+                        : 'descending'
+                      : undefined
+                  }
+                >
+                  {col.key ? (
+                    <button
+                      type="button"
+                      className={s.sortButton}
+                      onClick={() => onSort(col.key!)}
+                    >
+                      {col.label}
+                      <span
+                        className={col.key === sort ? s.arrow.on : s.arrow.off}
+                        aria-hidden="true"
+                      >
+                        {col.key === sort && dir === 'asc' ? '▲' : '▼'}
+                      </span>
+                    </button>
+                  ) : (
+                    col.label
+                  )}
+                </th>
+              ))}
             </tr>
           </thead>
           <tbody>

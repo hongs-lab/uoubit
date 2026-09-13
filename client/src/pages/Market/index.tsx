@@ -10,7 +10,7 @@ import QuoteTable from '@/components/market/QuoteTable';
 import Guide, { type GuideStep } from '@/components/onboarding/Guide';
 import { useFirstVisitGuide } from '@/hooks/useFirstVisitGuide';
 import { useMarketStore, useTick } from '@/hooks/useMarket';
-import type { Row, SortKey } from '@/types/market';
+import type { Row, SortDir, SortKey } from '@/types/market';
 
 const PAGE_SIZE = 40;
 
@@ -34,13 +34,25 @@ const GUIDE_STEPS: GuideStep[] = [
   },
 ];
 
-const SORTERS: Record<SortKey, (a: Row, b: Row) => number> = {
-  marketCap: (a, b) => b.marketCap - a.marketCap,
-  changeRate: (a, b) => b.changeRate - a.changeRate,
-  price: (a, b) => b.basePrice - a.basePrice,
-  reviewCount: (a, b) => b.reviewCount - a.reviewCount,
-  name: (a, b) => a.name.localeCompare(b.name, 'ko'),
+const VALUE: Record<SortKey, (r: Row) => number | string> = {
+  marketCap: (r) => r.marketCap,
+  changeRate: (r) => r.changeRate,
+  price: (r) => r.basePrice,
+  high: (r) => r.high,
+  low: (r) => r.low,
+  reviewCount: (r) => r.reviewCount,
+  name: (r) => r.name,
 };
+
+function compare(a: Row, b: Row, key: SortKey, dir: SortDir) {
+  const x = VALUE[key](a);
+  const y = VALUE[key](b);
+  const n =
+    typeof x === 'string' && typeof y === 'string'
+      ? x.localeCompare(y, 'ko')
+      : Number(x) - Number(y);
+  return dir === 'asc' ? n : -n;
+}
 
 export default function Market() {
   const store = useMarketStore();
@@ -50,6 +62,7 @@ export default function Market() {
     keyword: '',
     sector: '',
     sort: 'marketCap',
+    dir: 'desc',
     trustedOnly: false,
   });
   const [visible, setVisible] = useState(PAGE_SIZE);
@@ -75,7 +88,7 @@ export default function Market() {
       }
       return true;
     })
-    .sort(SORTERS[filters.sort]);
+    .sort((a, b) => compare(a, b, filters.sort, filters.dir));
 
   const apply = (next: Filters) => {
     setFilters(next);
@@ -98,6 +111,18 @@ export default function Market() {
             rows={rows}
             visible={visible}
             maxReviews={maxReviews}
+            sort={filters.sort}
+            dir={filters.dir}
+            onSort={(key) =>
+              apply({
+                ...filters,
+                sort: key,
+                dir:
+                  filters.sort === key && filters.dir === 'desc'
+                    ? 'asc'
+                    : 'desc',
+              })
+            }
             onMore={() => setVisible((v) => v + PAGE_SIZE)}
           />
         </Panel>
