@@ -1,0 +1,14 @@
+{
+  "name": "server",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "node --no-warnings index.mjs",
+    "start": "node --no-warnings index.mjs",
+    "check": "node --no-warnings selfcheck.mjs"
+  },
+  "engines": {
+    "node": ">=22.5"
+  }
+}

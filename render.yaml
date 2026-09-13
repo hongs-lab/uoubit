@@ -1,0 +1,18 @@
+services:
+  - type: web
+    name: uoubit
+    runtime: node
+    plan: free
+    # 무료 리전 중 한국에서 가장 가깝다.
+    region: singapore
+    # listings.json 은 professors.json 에서 매 빌드 생성한다 — 원본만 커밋하면 된다.
+    buildCommand: corepack enable && pnpm install --frozen-lockfile && pnpm seed && pnpm build
+    startCommand: pnpm start
+    healthCheckPath: /api/quotes
+    envVars:
+      # node:sqlite 는 22.5+ 부터 있다. 실험 기능이라 버전을 고정해 둔다.
+      - key: NODE_VERSION
+        value: 24.3.0
+      # 무료 플랜은 디스크가 휘발이다. 어차피 안 남는 값이니 자리를 분명히 해 둔다.
+      - key: DB_PATH
+        value: /tmp/exchange.db

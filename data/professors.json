@@ -1,0 +1,7579 @@
+{
+  "university": "울산대학교",
+  "instituteId": 552,
+  "source": "starteacher.co.kr",
+  "fetchedAt": "2026-09-09T16:28:13+0900",
+  "total": 757,
+  "professors": [
+    {
+      "id": 112714,
+      "name": "김민영",
+      "department": "간호학과",
+      "university": "울산대학교",
+      "rating": 10.0,
+      "reviewCount": 3,
+      "sex": "woman",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/112714"
+    },
+    {
+      "id": 72539,
+      "name": "박정우",
+      "department": "생명과학과",
+      "university": "울산대학교",
+      "rating": 10.0,
+      "reviewCount": 2,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72539"
+    },
+    {
+      "id": 72592,
+      "name": "송혜림",
+      "department": "아동가족복지학과",
+      "university": "울산대학교",
+      "rating": 10.0,
+      "reviewCount": 2,
+      "sex": "woman",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72592"
+    },
+    {
+      "id": 72615,
+      "name": "신호성",
+      "department": "건설환경공학과",
+      "university": "울산대학교",
+      "rating": 10.0,
+      "reviewCount": 2,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72615"
+    },
+    {
+      "id": 72885,
+      "name": "조재호",
+      "department": "경제학과",
+      "university": "울산대학교",
+      "rating": 10.0,
+      "reviewCount": 2,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72885"
+    },
+    {
+      "id": 72315,
+      "name": "강지현",
+      "department": "경찰학과",
+      "university": "울산대학교",
+      "rating": 10.0,
+      "reviewCount": 1,
+      "sex": "woman",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72315"
+    },
+    {
+      "id": 72320,
+      "name": "고원석",
+      "department": "첨단소재공학과",
+      "university": "울산대학교",
+      "rating": 10.0,
+      "reviewCount": 1,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72320"
+    },
+    {
+      "id": 72368,
+      "name": "김도중",
+      "department": "기계자동차공학과",
+      "university": "울산대학교",
+      "rating": 10.0,
+      "reviewCount": 1,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72368"
+    },
+    {
+      "id": 72395,
+      "name": "김선욱",
+      "department": "화학공학과",
+      "university": "울산대학교",
+      "rating": 10.0,
+      "reviewCount": 1,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72395"
+    },
+    {
+      "id": 72436,
+      "name": "김일원",
+      "department": "물리학과",
+      "university": "울산대학교",
+      "rating": 10.0,
+      "reviewCount": 1,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72436"
+    },
+    {
+      "id": 72453,
+      "name": "김준범",
+      "department": "화학공학과",
+      "university": "울산대학교",
+      "rating": 10.0,
+      "reviewCount": 1,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72453"
+    },
+    {
+      "id": 112771,
+      "name": "김호곤",
+      "department": "간호학과",
+      "university": "울산대학교",
+      "rating": 10.0,
+      "reviewCount": 1,
+      "sex": "woman",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/112771"
+    },
+    {
+      "id": 72494,
+      "name": "노경희",
+      "department": "국어국문학과",
+      "university": "울산대학교",
+      "rating": 10.0,
+      "reviewCount": 1,
+      "sex": "woman",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72494"
+    },
+    {
+      "id": 112757,
+      "name": "류영선",
+      "department": "간호학과",
+      "university": "울산대학교",
+      "rating": 10.0,
+      "reviewCount": 1,
+      "sex": "woman",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/112757"
+    },
+    {
+      "id": 105070,
+      "name": "박병호",
+      "department": "기타",
+      "university": "울산대학교",
+      "rating": 10.0,
+      "reviewCount": 1,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/105070"
+    },
+    {
+      "id": 105072,
+      "name": "박순희",
+      "department": "기타",
+      "university": "울산대학교",
+      "rating": 10.0,
+      "reviewCount": 1,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/105072"
+    },
+    {
+      "id": 72559,
+      "name": "배인규",
+      "department": "기계자동차공학과",
+      "university": "울산대학교",
+      "rating": 10.0,
+      "reviewCount": 1,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72559"
+    },
+    {
+      "id": 112733,
+      "name": "서준용",
+      "department": "경영학과",
+      "university": "울산대학교",
+      "rating": 10.0,
+      "reviewCount": 1,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/112733"
+    },
+    {
+      "id": 72608,
+      "name": "신은숙",
+      "department": "피아노과",
+      "university": "울산대학교",
+      "rating": 10.0,
+      "reviewCount": 1,
+      "sex": "woman",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72608"
+    },
+    {
+      "id": 72614,
+      "name": "신현우",
+      "department": "시각디자인학과",
+      "university": "울산대학교",
+      "rating": 10.0,
+      "reviewCount": 1,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72614"
+    },
+    {
+      "id": 112767,
+      "name": "심보윤",
+      "department": "간호학과",
+      "university": "울산대학교",
+      "rating": 10.0,
+      "reviewCount": 1,
+      "sex": "woman",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/112767"
+    },
+    {
+      "id": 112712,
+      "name": "안희진",
+      "department": "물리학과",
+      "university": "울산대학교",
+      "rating": 10.0,
+      "reviewCount": 1,
+      "sex": "woman",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/112712"
+    },
+    {
+      "id": 72675,
+      "name": "유영일",
+      "department": "법학과",
+      "university": "울산대학교",
+      "rating": 10.0,
+      "reviewCount": 1,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72675"
+    },
+    {
+      "id": 72687,
+      "name": "윤범상",
+      "department": "조선해양공학과",
+      "university": "울산대학교",
+      "rating": 10.0,
+      "reviewCount": 1,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72687"
+    },
+    {
+      "id": 72698,
+      "name": "이광학",
+      "department": "첨단소재공학과",
+      "university": "울산대학교",
+      "rating": 10.0,
+      "reviewCount": 1,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72698"
+    },
+    {
+      "id": 72772,
+      "name": "이진태",
+      "department": "조선해양공학과",
+      "university": "울산대학교",
+      "rating": 10.0,
+      "reviewCount": 1,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72772"
+    },
+    {
+      "id": 112716,
+      "name": "장인실",
+      "department": "간호학과",
+      "university": "울산대학교",
+      "rating": 10.0,
+      "reviewCount": 1,
+      "sex": "woman",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/112716"
+    },
+    {
+      "id": 112729,
+      "name": "정지혜",
+      "department": "간호학과",
+      "university": "울산대학교",
+      "rating": 10.0,
+      "reviewCount": 1,
+      "sex": "woman",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/112729"
+    },
+    {
+      "id": 72884,
+      "name": "조재민",
+      "department": "글로벌경영학과",
+      "university": "울산대학교",
+      "rating": 10.0,
+      "reviewCount": 1,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72884"
+    },
+    {
+      "id": 72896,
+      "name": "주성아",
+      "department": "생명과학과",
+      "university": "울산대학교",
+      "rating": 10.0,
+      "reviewCount": 1,
+      "sex": "woman",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72896"
+    },
+    {
+      "id": 112748,
+      "name": "진주혜",
+      "department": "간호학과",
+      "university": "울산대학교",
+      "rating": 10.0,
+      "reviewCount": 1,
+      "sex": "woman",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/112748"
+    },
+    {
+      "id": 72931,
+      "name": "최정아",
+      "department": "아동가족복지학과",
+      "university": "울산대학교",
+      "rating": 10.0,
+      "reviewCount": 1,
+      "sex": "woman",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72931"
+    },
+    {
+      "id": 72954,
+      "name": "허영란",
+      "department": "역사문화학과",
+      "university": "울산대학교",
+      "rating": 10.0,
+      "reviewCount": 1,
+      "sex": "woman",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72954"
+    },
+    {
+      "id": 112742,
+      "name": "이정희",
+      "department": "경영학과",
+      "university": "울산대학교",
+      "rating": 9.6666,
+      "reviewCount": 6,
+      "sex": "woman",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/112742"
+    },
+    {
+      "id": 72350,
+      "name": "김건우",
+      "department": "디지털콘텐츠디자인학과",
+      "university": "울산대학교",
+      "rating": 9.6666,
+      "reviewCount": 3,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72350"
+    },
+    {
+      "id": 112744,
+      "name": "홍권표",
+      "department": "경영학과",
+      "university": "울산대학교",
+      "rating": 9.5,
+      "reviewCount": 4,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/112744"
+    },
+    {
+      "id": 72425,
+      "name": "김유라",
+      "department": "수학과",
+      "university": "울산대학교",
+      "rating": 9.5,
+      "reviewCount": 2,
+      "sex": "woman",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72425"
+    },
+    {
+      "id": 72867,
+      "name": "정춘수",
+      "department": "생명과학과",
+      "university": "울산대학교",
+      "rating": 9.3333,
+      "reviewCount": 3,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72867"
+    },
+    {
+      "id": 108497,
+      "name": "이수진",
+      "department": "기타",
+      "university": "울산대학교",
+      "rating": 9.1428,
+      "reviewCount": 7,
+      "sex": "woman",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/108497"
+    },
+    {
+      "id": 72659,
+      "name": "왕가년",
+      "department": "철학과",
+      "university": "울산대학교",
+      "rating": 9.0,
+      "reviewCount": 10,
+      "sex": "woman",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72659"
+    },
+    {
+      "id": 72387,
+      "name": "김보흥",
+      "department": "기계자동차공학과",
+      "university": "울산대학교",
+      "rating": 9.0,
+      "reviewCount": 6,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72387"
+    },
+    {
+      "id": 72396,
+      "name": "김선정",
+      "department": "첨단소재공학과",
+      "university": "울산대학교",
+      "rating": 9.0,
+      "reviewCount": 3,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72396"
+    },
+    {
+      "id": 72546,
+      "name": "박진모",
+      "department": "회계학과",
+      "university": "울산대학교",
+      "rating": 9.0,
+      "reviewCount": 3,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72546"
+    },
+    {
+      "id": 112730,
+      "name": "고원자",
+      "department": "교양",
+      "university": "울산대학교",
+      "rating": 9.0,
+      "reviewCount": 2,
+      "sex": "woman",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/112730"
+    },
+    {
+      "id": 72456,
+      "name": "김지순",
+      "department": "첨단소재공학과",
+      "university": "울산대학교",
+      "rating": 9.0,
+      "reviewCount": 2,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72456"
+    },
+    {
+      "id": 72471,
+      "name": "김한실",
+      "department": "전기전자공학과",
+      "university": "울산대학교",
+      "rating": 9.0,
+      "reviewCount": 2,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72471"
+    },
+    {
+      "id": 72637,
+      "name": "양홍근",
+      "department": "첨단소재공학과",
+      "university": "울산대학교",
+      "rating": 9.0,
+      "reviewCount": 2,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72637"
+    },
+    {
+      "id": 72721,
+      "name": "이병주",
+      "department": "생명과학과",
+      "university": "울산대학교",
+      "rating": 9.0,
+      "reviewCount": 2,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72721"
+    },
+    {
+      "id": 72766,
+      "name": "이정훈",
+      "department": "법학과",
+      "university": "울산대학교",
+      "rating": 9.0,
+      "reviewCount": 2,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72766"
+    },
+    {
+      "id": 72799,
+      "name": "임성현",
+      "department": "물리학과",
+      "university": "울산대학교",
+      "rating": 9.0,
+      "reviewCount": 2,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72799"
+    },
+    {
+      "id": 72392,
+      "name": "김석원",
+      "department": "물리학과",
+      "university": "울산대학교",
+      "rating": 9.0,
+      "reviewCount": 1,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72392"
+    },
+    {
+      "id": 112828,
+      "name": "류경민",
+      "department": "교양",
+      "university": "울산대학교",
+      "rating": 9.0,
+      "reviewCount": 1,
+      "sex": "woman",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/112828"
+    },
+    {
+      "id": 72509,
+      "name": "민동욱",
+      "department": "아동가족복지학과",
+      "university": "울산대학교",
+      "rating": 9.0,
+      "reviewCount": 1,
+      "sex": "woman",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72509"
+    },
+    {
+      "id": 112683,
+      "name": "박예진",
+      "department": "디지털콘텐츠디자인학과",
+      "university": "울산대학교",
+      "rating": 9.0,
+      "reviewCount": 1,
+      "sex": "woman",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/112683"
+    },
+    {
+      "id": 72573,
+      "name": "서영수",
+      "department": "전기전자공학과",
+      "university": "울산대학교",
+      "rating": 9.0,
+      "reviewCount": 1,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72573"
+    },
+    {
+      "id": 72763,
+      "name": "이정구",
+      "department": "첨단소재공학과",
+      "university": "울산대학교",
+      "rating": 9.0,
+      "reviewCount": 1,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72763"
+    },
+    {
+      "id": 72771,
+      "name": "이지희",
+      "department": "아동가족복지학과",
+      "university": "울산대학교",
+      "rating": 9.0,
+      "reviewCount": 1,
+      "sex": "woman",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72771"
+    },
+    {
+      "id": 72840,
+      "name": "정구현",
+      "department": "기계자동차공학과",
+      "university": "울산대학교",
+      "rating": 9.0,
+      "reviewCount": 1,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72840"
+    },
+    {
+      "id": 72859,
+      "name": "정의필",
+      "department": "IT융합전공",
+      "university": "울산대학교",
+      "rating": 9.0,
+      "reviewCount": 1,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72859"
+    },
+    {
+      "id": 112835,
+      "name": "크리스틴 한",
+      "department": "교양",
+      "university": "울산대학교",
+      "rating": 9.0,
+      "reviewCount": 1,
+      "sex": "woman",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/112835"
+    },
+    {
+      "id": 72967,
+      "name": "홍순호",
+      "department": "화학공학과",
+      "university": "울산대학교",
+      "rating": 9.0,
+      "reviewCount": 1,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72967"
+    },
+    {
+      "id": 112763,
+      "name": "김수진",
+      "department": "교양",
+      "university": "울산대학교",
+      "rating": 8.8571,
+      "reviewCount": 7,
+      "sex": "woman",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/112763"
+    },
+    {
+      "id": 72734,
+      "name": "이선필",
+      "department": "철학과",
+      "university": "울산대학교",
+      "rating": 8.75,
+      "reviewCount": 4,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72734"
+    },
+    {
+      "id": 72352,
+      "name": "김광원",
+      "department": "전기전자공학과",
+      "university": "울산대학교",
+      "rating": 8.7272,
+      "reviewCount": 11,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72352"
+    },
+    {
+      "id": 72643,
+      "name": "염영진",
+      "department": "기계자동차공학과",
+      "university": "울산대학교",
+      "rating": 8.7142,
+      "reviewCount": 7,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72643"
+    },
+    {
+      "id": 72630,
+      "name": "양명국",
+      "department": "전기전자공학과",
+      "university": "울산대학교",
+      "rating": 8.7,
+      "reviewCount": 10,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72630"
+    },
+    {
+      "id": 72502,
+      "name": "도회근",
+      "department": "법학과",
+      "university": "울산대학교",
+      "rating": 8.6666,
+      "reviewCount": 12,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72502"
+    },
+    {
+      "id": 72326,
+      "name": "곽영민",
+      "department": "회계학과",
+      "university": "울산대학교",
+      "rating": 8.6666,
+      "reviewCount": 3,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72326"
+    },
+    {
+      "id": 72825,
+      "name": "장종훈",
+      "department": "기계자동차공학과",
+      "university": "울산대학교",
+      "rating": 8.6666,
+      "reviewCount": 3,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72825"
+    },
+    {
+      "id": 72794,
+      "name": "임강일",
+      "department": "스포츠과학과",
+      "university": "울산대학교",
+      "rating": 8.5,
+      "reviewCount": 4,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72794"
+    },
+    {
+      "id": 72851,
+      "name": "정용호",
+      "department": "국어국문학과",
+      "university": "울산대학교",
+      "rating": 8.5,
+      "reviewCount": 4,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72851"
+    },
+    {
+      "id": 72305,
+      "name": "강만모",
+      "department": "IT융합전공",
+      "university": "울산대학교",
+      "rating": 8.5,
+      "reviewCount": 2,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72305"
+    },
+    {
+      "id": 72542,
+      "name": "박주식",
+      "department": "경영학과",
+      "university": "울산대학교",
+      "rating": 8.5,
+      "reviewCount": 2,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72542"
+    },
+    {
+      "id": 72730,
+      "name": "이상현",
+      "department": "항공우주공학과",
+      "university": "울산대학교",
+      "rating": 8.5,
+      "reviewCount": 2,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72730"
+    },
+    {
+      "id": 112734,
+      "name": "이지언",
+      "department": "스포츠과학과",
+      "university": "울산대학교",
+      "rating": 8.5,
+      "reviewCount": 2,
+      "sex": "woman",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/112734"
+    },
+    {
+      "id": 112722,
+      "name": "이진화",
+      "department": "간호학과",
+      "university": "울산대학교",
+      "rating": 8.5,
+      "reviewCount": 2,
+      "sex": "woman",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/112722"
+    },
+    {
+      "id": 72784,
+      "name": "이현호",
+      "department": "수학과",
+      "university": "울산대학교",
+      "rating": 8.5,
+      "reviewCount": 2,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72784"
+    },
+    {
+      "id": 72920,
+      "name": "최성훈",
+      "department": "스포츠과학과",
+      "university": "울산대학교",
+      "rating": 8.5,
+      "reviewCount": 2,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72920"
+    },
+    {
+      "id": 72942,
+      "name": "하지원",
+      "department": "화학과",
+      "university": "울산대학교",
+      "rating": 8.5,
+      "reviewCount": 2,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72942"
+    },
+    {
+      "id": 72419,
+      "name": "김용성",
+      "department": "철학과",
+      "university": "울산대학교",
+      "rating": 8.4285,
+      "reviewCount": 7,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72419"
+    },
+    {
+      "id": 72566,
+      "name": "백재화",
+      "department": "아동가족복지학과",
+      "university": "울산대학교",
+      "rating": 8.4117,
+      "reviewCount": 17,
+      "sex": "woman",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72566"
+    },
+    {
+      "id": 72602,
+      "name": "신소희",
+      "department": "스포츠과학과",
+      "university": "울산대학교",
+      "rating": 8.3333,
+      "reviewCount": 3,
+      "sex": "woman",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72602"
+    },
+    {
+      "id": 72743,
+      "name": "이양범",
+      "department": "전기전자공학과",
+      "university": "울산대학교",
+      "rating": 8.3333,
+      "reviewCount": 3,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72743"
+    },
+    {
+      "id": 72899,
+      "name": "주필은",
+      "department": "경영정보학과",
+      "university": "울산대학교",
+      "rating": 8.3333,
+      "reviewCount": 3,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72899"
+    },
+    {
+      "id": 72389,
+      "name": "김상온",
+      "department": "경제학과",
+      "university": "울산대학교",
+      "rating": 8.2857,
+      "reviewCount": 7,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72389"
+    },
+    {
+      "id": 72645,
+      "name": "오문완",
+      "department": "법학과",
+      "university": "울산대학교",
+      "rating": 8.2,
+      "reviewCount": 5,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72645"
+    },
+    {
+      "id": 112741,
+      "name": "김정수",
+      "department": "경영학과",
+      "university": "울산대학교",
+      "rating": 8.1111,
+      "reviewCount": 9,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/112741"
+    },
+    {
+      "id": 105079,
+      "name": "최우리",
+      "department": "기타",
+      "university": "울산대학교",
+      "rating": 8.0833,
+      "reviewCount": 12,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/105079"
+    },
+    {
+      "id": 112704,
+      "name": "원영미",
+      "department": "역사문화학과",
+      "university": "울산대학교",
+      "rating": 8.0625,
+      "reviewCount": 16,
+      "sex": "woman",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/112704"
+    },
+    {
+      "id": 112754,
+      "name": "문성미",
+      "department": "간호학과",
+      "university": "울산대학교",
+      "rating": 8.0,
+      "reviewCount": 6,
+      "sex": "woman",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/112754"
+    },
+    {
+      "id": 72313,
+      "name": "강웅경",
+      "department": "철학과",
+      "university": "울산대학교",
+      "rating": 8.0,
+      "reviewCount": 5,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72313"
+    },
+    {
+      "id": 72890,
+      "name": "조홍제",
+      "department": "건설환경공학과",
+      "university": "울산대학교",
+      "rating": 8.0,
+      "reviewCount": 5,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72890"
+    },
+    {
+      "id": 72932,
+      "name": "최종호",
+      "department": "스페인중남미학",
+      "university": "울산대학교",
+      "rating": 8.0,
+      "reviewCount": 3,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72932"
+    },
+    {
+      "id": 72949,
+      "name": "한인섭",
+      "department": "생명과학과",
+      "university": "울산대학교",
+      "rating": 8.0,
+      "reviewCount": 3,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72949"
+    },
+    {
+      "id": 72318,
+      "name": "강희준",
+      "department": "전기전자공학과",
+      "university": "울산대학교",
+      "rating": 8.0,
+      "reviewCount": 2,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72318"
+    },
+    {
+      "id": 72325,
+      "name": "공형윤",
+      "department": "전기전자공학과",
+      "university": "울산대학교",
+      "rating": 8.0,
+      "reviewCount": 2,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72325"
+    },
+    {
+      "id": 112740,
+      "name": "김소영",
+      "department": "경영학과",
+      "university": "울산대학교",
+      "rating": 8.0,
+      "reviewCount": 2,
+      "sex": "woman",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/112740"
+    },
+    {
+      "id": 112747,
+      "name": "박상현",
+      "department": "경영학과",
+      "university": "울산대학교",
+      "rating": 8.0,
+      "reviewCount": 2,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/112747"
+    },
+    {
+      "id": 112739,
+      "name": "이단영",
+      "department": "경영학과",
+      "university": "울산대학교",
+      "rating": 8.0,
+      "reviewCount": 2,
+      "sex": "woman",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/112739"
+    },
+    {
+      "id": 112705,
+      "name": "이승희",
+      "department": "간호학과",
+      "university": "울산대학교",
+      "rating": 8.0,
+      "reviewCount": 2,
+      "sex": "woman",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/112705"
+    },
+    {
+      "id": 72863,
+      "name": "정준금",
+      "department": "행정학과",
+      "university": "울산대학교",
+      "rating": 8.0,
+      "reviewCount": 2,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72863"
+    },
+    {
+      "id": 72878,
+      "name": "조상복",
+      "department": "전기전자공학과",
+      "university": "울산대학교",
+      "rating": 8.0,
+      "reviewCount": 2,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72878"
+    },
+    {
+      "id": 72317,
+      "name": "강한나",
+      "department": "아동가족복지학과",
+      "university": "울산대학교",
+      "rating": 8.0,
+      "reviewCount": 1,
+      "sex": "woman",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72317"
+    },
+    {
+      "id": 112770,
+      "name": "고민성",
+      "department": "간호학과",
+      "university": "울산대학교",
+      "rating": 8.0,
+      "reviewCount": 1,
+      "sex": "woman",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/112770"
+    },
+    {
+      "id": 72334,
+      "name": "구자은",
+      "department": "영어영문학과",
+      "university": "울산대학교",
+      "rating": 8.0,
+      "reviewCount": 1,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72334"
+    },
+    {
+      "id": 72344,
+      "name": "권용재",
+      "department": "첨단소재공학과",
+      "university": "울산대학교",
+      "rating": 8.0,
+      "reviewCount": 1,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72344"
+    },
+    {
+      "id": 72351,
+      "name": "김공대",
+      "department": "프랑스어과",
+      "university": "울산대학교",
+      "rating": 8.0,
+      "reviewCount": 1,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72351"
+    },
+    {
+      "id": 72357,
+      "name": "김기정",
+      "department": "스포츠과학과",
+      "university": "울산대학교",
+      "rating": 8.0,
+      "reviewCount": 1,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72357"
+    },
+    {
+      "id": 72372,
+      "name": "김동완",
+      "department": "일본어과",
+      "university": "울산대학교",
+      "rating": 8.0,
+      "reviewCount": 1,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72372"
+    },
+    {
+      "id": 112737,
+      "name": "김상언",
+      "department": "경영학과",
+      "university": "울산대학교",
+      "rating": 8.0,
+      "reviewCount": 1,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/112737"
+    },
+    {
+      "id": 72449,
+      "name": "김종호",
+      "department": "건설환경공학과",
+      "university": "울산대학교",
+      "rating": 8.0,
+      "reviewCount": 1,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72449"
+    },
+    {
+      "id": 72452,
+      "name": "김주홍",
+      "department": "국제관계학",
+      "university": "울산대학교",
+      "rating": 8.0,
+      "reviewCount": 1,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72452"
+    },
+    {
+      "id": 72476,
+      "name": "김현준",
+      "department": "경영정보학과",
+      "university": "울산대학교",
+      "rating": 8.0,
+      "reviewCount": 1,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72476"
+    },
+    {
+      "id": 112980,
+      "name": "노육환",
+      "department": "간호학과",
+      "university": "울산대학교",
+      "rating": 8.0,
+      "reviewCount": 1,
+      "sex": "woman",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/112980"
+    },
+    {
+      "id": 72499,
+      "name": "노현섭",
+      "department": "회계학과",
+      "university": "울산대학교",
+      "rating": 8.0,
+      "reviewCount": 1,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72499"
+    },
+    {
+      "id": 72503,
+      "name": "랜돌프",
+      "department": "경영학과",
+      "university": "울산대학교",
+      "rating": 8.0,
+      "reviewCount": 1,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72503"
+    },
+    {
+      "id": 72517,
+      "name": "박규열",
+      "department": "기계자동차공학과",
+      "university": "울산대학교",
+      "rating": 8.0,
+      "reviewCount": 1,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72517"
+    },
+    {
+      "id": 105076,
+      "name": "서수민",
+      "department": "기타",
+      "university": "울산대학교",
+      "rating": 8.0,
+      "reviewCount": 1,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/105076"
+    },
+    {
+      "id": 112702,
+      "name": "송은경",
+      "department": "간호학과",
+      "university": "울산대학교",
+      "rating": 8.0,
+      "reviewCount": 1,
+      "sex": "woman",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/112702"
+    },
+    {
+      "id": 72606,
+      "name": "신용하",
+      "department": "사회복지학과",
+      "university": "울산대학교",
+      "rating": 8.0,
+      "reviewCount": 1,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72606"
+    },
+    {
+      "id": 72656,
+      "name": "오훈",
+      "department": "IT융합전공",
+      "university": "울산대학교",
+      "rating": 8.0,
+      "reviewCount": 1,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72656"
+    },
+    {
+      "id": 72674,
+      "name": "유복희",
+      "department": "주거환경학과",
+      "university": "울산대학교",
+      "rating": 8.0,
+      "reviewCount": 1,
+      "sex": "woman",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72674"
+    },
+    {
+      "id": 72686,
+      "name": "윤동열",
+      "department": "글로벌경영학과",
+      "university": "울산대학교",
+      "rating": 8.0,
+      "reviewCount": 1,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72686"
+    },
+    {
+      "id": 112719,
+      "name": "이경숙",
+      "department": "간호학과",
+      "university": "울산대학교",
+      "rating": 8.0,
+      "reviewCount": 1,
+      "sex": "woman",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/112719"
+    },
+    {
+      "id": 112693,
+      "name": "이동렬",
+      "department": "제품환경디자인학",
+      "university": "울산대학교",
+      "rating": 8.0,
+      "reviewCount": 1,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/112693"
+    },
+    {
+      "id": 72754,
+      "name": "이은우",
+      "department": "경제학과",
+      "university": "울산대학교",
+      "rating": 8.0,
+      "reviewCount": 1,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72754"
+    },
+    {
+      "id": 72757,
+      "name": "이장명",
+      "department": "기계자동차공학과",
+      "university": "울산대학교",
+      "rating": 8.0,
+      "reviewCount": 1,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72757"
+    },
+    {
+      "id": 72767,
+      "name": "이종서",
+      "department": "역사문화학과",
+      "university": "울산대학교",
+      "rating": 8.0,
+      "reviewCount": 1,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72767"
+    },
+    {
+      "id": 112772,
+      "name": "이해림",
+      "department": "간호학과",
+      "university": "울산대학교",
+      "rating": 8.0,
+      "reviewCount": 1,
+      "sex": "woman",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/112772"
+    },
+    {
+      "id": 72802,
+      "name": "임옥택",
+      "department": "기계자동차공학과",
+      "university": "울산대학교",
+      "rating": 8.0,
+      "reviewCount": 1,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72802"
+    },
+    {
+      "id": 112750,
+      "name": "장마크 코뮤",
+      "department": "영어교양",
+      "university": "울산대학교",
+      "rating": 8.0,
+      "reviewCount": 1,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/112750"
+    },
+    {
+      "id": 72829,
+      "name": "잭 캘러웨이",
+      "department": "생명과학과",
+      "university": "울산대학교",
+      "rating": 8.0,
+      "reviewCount": 1,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72829"
+    },
+    {
+      "id": 72847,
+      "name": "정성한",
+      "department": "스포츠과학과",
+      "university": "울산대학교",
+      "rating": 8.0,
+      "reviewCount": 1,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72847"
+    },
+    {
+      "id": 72861,
+      "name": "정재훈",
+      "department": "화학과",
+      "university": "울산대학교",
+      "rating": 8.0,
+      "reviewCount": 1,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72861"
+    },
+    {
+      "id": 72926,
+      "name": "최윤락",
+      "department": "조선해양공학과",
+      "university": "울산대학교",
+      "rating": 8.0,
+      "reviewCount": 1,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72926"
+    },
+    {
+      "id": 72939,
+      "name": "편상훈",
+      "department": "행정학과",
+      "university": "울산대학교",
+      "rating": 8.0,
+      "reviewCount": 1,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72939"
+    },
+    {
+      "id": 72946,
+      "name": "한삼건",
+      "department": "건축학",
+      "university": "울산대학교",
+      "rating": 8.0,
+      "reviewCount": 1,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72946"
+    },
+    {
+      "id": 72953,
+      "name": "허영도",
+      "department": "경영학과",
+      "university": "울산대학교",
+      "rating": 8.0,
+      "reviewCount": 1,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72953"
+    },
+    {
+      "id": 112834,
+      "name": "허채라",
+      "department": "간호학과",
+      "university": "울산대학교",
+      "rating": 8.0,
+      "reviewCount": 1,
+      "sex": "woman",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/112834"
+    },
+    {
+      "id": 72968,
+      "name": "홍윤숙",
+      "department": "경영학과",
+      "university": "울산대학교",
+      "rating": 8.0,
+      "reviewCount": 1,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72968"
+    },
+    {
+      "id": 72973,
+      "name": "황갑주",
+      "department": "전기전자공학과",
+      "university": "울산대학교",
+      "rating": 8.0,
+      "reviewCount": 1,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72973"
+    },
+    {
+      "id": 72498,
+      "name": "노태환",
+      "department": "물리학과",
+      "university": "울산대학교",
+      "rating": 7.9166,
+      "reviewCount": 12,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72498"
+    },
+    {
+      "id": 112735,
+      "name": "김상언",
+      "department": "경영학과",
+      "university": "울산대학교",
+      "rating": 7.8571,
+      "reviewCount": 7,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/112735"
+    },
+    {
+      "id": 72665,
+      "name": "원성필",
+      "department": "기계자동차공학과",
+      "university": "울산대학교",
+      "rating": 7.8333,
+      "reviewCount": 6,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72665"
+    },
+    {
+      "id": 72740,
+      "name": "이순주",
+      "department": "스페인중남미학",
+      "university": "울산대학교",
+      "rating": 7.8333,
+      "reviewCount": 6,
+      "sex": "woman",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72740"
+    },
+    {
+      "id": 105077,
+      "name": "신부영",
+      "department": "기타",
+      "university": "울산대학교",
+      "rating": 7.8,
+      "reviewCount": 5,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/105077"
+    },
+    {
+      "id": 72642,
+      "name": "여태인",
+      "department": "기계자동차공학과",
+      "university": "울산대학교",
+      "rating": 7.75,
+      "reviewCount": 4,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72642"
+    },
+    {
+      "id": 72404,
+      "name": "김성현",
+      "department": "전기전자공학과",
+      "university": "울산대학교",
+      "rating": 7.6666,
+      "reviewCount": 3,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72404"
+    },
+    {
+      "id": 112686,
+      "name": "서영주",
+      "department": "디지털콘텐츠디자인학과",
+      "university": "울산대학교",
+      "rating": 7.6666,
+      "reviewCount": 3,
+      "sex": "woman",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/112686"
+    },
+    {
+      "id": 72654,
+      "name": "오은석",
+      "department": "화학공학과",
+      "university": "울산대학교",
+      "rating": 7.6666,
+      "reviewCount": 3,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72654"
+    },
+    {
+      "id": 72916,
+      "name": "최병철",
+      "department": "경제학과",
+      "university": "울산대학교",
+      "rating": 7.6,
+      "reviewCount": 5,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72916"
+    },
+    {
+      "id": 106669,
+      "name": "이은숙",
+      "department": "섬유디자인학",
+      "university": "울산대학교",
+      "rating": 7.5,
+      "reviewCount": 8,
+      "sex": "woman",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/106669"
+    },
+    {
+      "id": 72492,
+      "name": "남창우",
+      "department": "전기전자공학과",
+      "university": "울산대학교",
+      "rating": 7.5,
+      "reviewCount": 4,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72492"
+    },
+    {
+      "id": 107267,
+      "name": "민동옥",
+      "department": "아동가족복지학과",
+      "university": "울산대학교",
+      "rating": 7.5,
+      "reviewCount": 4,
+      "sex": "woman",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/107267"
+    },
+    {
+      "id": 72538,
+      "name": "박정민",
+      "department": "글로벌경영학과",
+      "university": "울산대학교",
+      "rating": 7.5,
+      "reviewCount": 2,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72538"
+    },
+    {
+      "id": 72548,
+      "name": "박창규",
+      "department": "경영학과",
+      "university": "울산대학교",
+      "rating": 7.5,
+      "reviewCount": 2,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72548"
+    },
+    {
+      "id": 72579,
+      "name": "성회경",
+      "department": "철학과",
+      "university": "울산대학교",
+      "rating": 7.5,
+      "reviewCount": 2,
+      "sex": "woman",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72579"
+    },
+    {
+      "id": 72919,
+      "name": "최성진",
+      "department": "전기전자공학과",
+      "university": "울산대학교",
+      "rating": 7.5,
+      "reviewCount": 2,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72919"
+    },
+    {
+      "id": 72935,
+      "name": "최홍주",
+      "department": "스페인중남미학",
+      "university": "울산대학교",
+      "rating": 7.5,
+      "reviewCount": 2,
+      "sex": "woman",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72935"
+    },
+    {
+      "id": 112766,
+      "name": "류지아",
+      "department": "교양",
+      "university": "울산대학교",
+      "rating": 7.4285,
+      "reviewCount": 7,
+      "sex": "woman",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/112766"
+    },
+    {
+      "id": 72930,
+      "name": "최재하",
+      "department": "전기전자공학과",
+      "university": "울산대학교",
+      "rating": 7.4285,
+      "reviewCount": 7,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72930"
+    },
+    {
+      "id": 72426,
+      "name": "김유미",
+      "department": "법학과",
+      "university": "울산대학교",
+      "rating": 7.4,
+      "reviewCount": 5,
+      "sex": "woman",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72426"
+    },
+    {
+      "id": 72845,
+      "name": "정민자",
+      "department": "아동가족복지학과",
+      "university": "울산대학교",
+      "rating": 7.3333,
+      "reviewCount": 30,
+      "sex": "woman",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72845"
+    },
+    {
+      "id": 72406,
+      "name": "김성훈",
+      "department": "경영학과",
+      "university": "울산대학교",
+      "rating": 7.3333,
+      "reviewCount": 6,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72406"
+    },
+    {
+      "id": 72333,
+      "name": "구자록",
+      "department": "IT융합전공",
+      "university": "울산대학교",
+      "rating": 7.3333,
+      "reviewCount": 3,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72333"
+    },
+    {
+      "id": 72529,
+      "name": "박순규",
+      "department": "건축공학과",
+      "university": "울산대학교",
+      "rating": 7.3333,
+      "reviewCount": 3,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72529"
+    },
+    {
+      "id": 72622,
+      "name": "안성민",
+      "department": "행정학과",
+      "university": "울산대학교",
+      "rating": 7.3333,
+      "reviewCount": 3,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72622"
+    },
+    {
+      "id": 72658,
+      "name": "와일더",
+      "department": "영어영문학과",
+      "university": "울산대학교",
+      "rating": 7.3333,
+      "reviewCount": 3,
+      "sex": "woman",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72658"
+    },
+    {
+      "id": 72877,
+      "name": "조상래",
+      "department": "조선해양공학과",
+      "university": "울산대학교",
+      "rating": 7.3333,
+      "reviewCount": 3,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72877"
+    },
+    {
+      "id": 72577,
+      "name": "성인수",
+      "department": "건축학",
+      "university": "울산대학교",
+      "rating": 7.3,
+      "reviewCount": 20,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72577"
+    },
+    {
+      "id": 112749,
+      "name": "이형건",
+      "department": "법학과",
+      "university": "울산대학교",
+      "rating": 7.25,
+      "reviewCount": 8,
+      "sex": "woman",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/112749"
+    },
+    {
+      "id": 113042,
+      "name": "김나정",
+      "department": "교양",
+      "university": "울산대학교",
+      "rating": 7.2,
+      "reviewCount": 5,
+      "sex": "woman",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/113042"
+    },
+    {
+      "id": 72722,
+      "name": "이병철",
+      "department": "행정학과",
+      "university": "울산대학교",
+      "rating": 7.2,
+      "reviewCount": 5,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72722"
+    },
+    {
+      "id": 72797,
+      "name": "임동국",
+      "department": "전기전자공학과",
+      "university": "울산대학교",
+      "rating": 7.2,
+      "reviewCount": 5,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72797"
+    },
+    {
+      "id": 72473,
+      "name": "김해룡",
+      "department": "경영학과",
+      "university": "울산대학교",
+      "rating": 7.1666,
+      "reviewCount": 12,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72473"
+    },
+    {
+      "id": 72466,
+      "name": "김치욱",
+      "department": "국제관계학",
+      "university": "울산대학교",
+      "rating": 7.1666,
+      "reviewCount": 6,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72466"
+    },
+    {
+      "id": 72587,
+      "name": "송병선",
+      "department": "스페인중남미학",
+      "university": "울산대학교",
+      "rating": 7.0909,
+      "reviewCount": 11,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72587"
+    },
+    {
+      "id": 72428,
+      "name": "김윤정",
+      "department": "국어국문학과",
+      "university": "울산대학교",
+      "rating": 7.0,
+      "reviewCount": 14,
+      "sex": "woman",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72428"
+    },
+    {
+      "id": 72497,
+      "name": "노영식",
+      "department": "전기전자공학과",
+      "university": "울산대학교",
+      "rating": 7.0,
+      "reviewCount": 6,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72497"
+    },
+    {
+      "id": 72384,
+      "name": "김병삼",
+      "department": "생명과학과",
+      "university": "울산대학교",
+      "rating": 7.0,
+      "reviewCount": 5,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72384"
+    },
+    {
+      "id": 72526,
+      "name": "박수범",
+      "department": "철학과",
+      "university": "울산대학교",
+      "rating": 7.0,
+      "reviewCount": 5,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72526"
+    },
+    {
+      "id": 72381,
+      "name": "김방술",
+      "department": "성악과",
+      "university": "울산대학교",
+      "rating": 7.0,
+      "reviewCount": 4,
+      "sex": "woman",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72381"
+    },
+    {
+      "id": 72420,
+      "name": "김용수",
+      "department": "물리학과",
+      "university": "울산대학교",
+      "rating": 7.0,
+      "reviewCount": 4,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72420"
+    },
+    {
+      "id": 72521,
+      "name": "박무호",
+      "department": "프랑스어과",
+      "university": "울산대학교",
+      "rating": 7.0,
+      "reviewCount": 4,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72521"
+    },
+    {
+      "id": 72835,
+      "name": "전태원",
+      "department": "전기전자공학과",
+      "university": "울산대학교",
+      "rating": 7.0,
+      "reviewCount": 4,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72835"
+    },
+    {
+      "id": 112745,
+      "name": "전필여",
+      "department": "경영학과",
+      "university": "울산대학교",
+      "rating": 7.0,
+      "reviewCount": 4,
+      "sex": "woman",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/112745"
+    },
+    {
+      "id": 72460,
+      "name": "김진식",
+      "department": "프랑스어과",
+      "university": "울산대학교",
+      "rating": 7.0,
+      "reviewCount": 3,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72460"
+    },
+    {
+      "id": 112691,
+      "name": "문미은",
+      "department": "화학과",
+      "university": "울산대학교",
+      "rating": 7.0,
+      "reviewCount": 3,
+      "sex": "woman",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/112691"
+    },
+    {
+      "id": 72613,
+      "name": "신현경",
+      "department": "조선해양공학과",
+      "university": "울산대학교",
+      "rating": 7.0,
+      "reviewCount": 3,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72613"
+    },
+    {
+      "id": 72849,
+      "name": "정수월",
+      "department": "생명과학과",
+      "university": "울산대학교",
+      "rating": 7.0,
+      "reviewCount": 3,
+      "sex": "woman",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72849"
+    },
+    {
+      "id": 72496,
+      "name": "노성환",
+      "department": "일본어과",
+      "university": "울산대학교",
+      "rating": 7.0,
+      "reviewCount": 2,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72496"
+    },
+    {
+      "id": 72512,
+      "name": "박경섭",
+      "department": "전기전자공학과",
+      "university": "울산대학교",
+      "rating": 7.0,
+      "reviewCount": 2,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72512"
+    },
+    {
+      "id": 72634,
+      "name": "양세화",
+      "department": "주거환경학과",
+      "university": "울산대학교",
+      "rating": 7.0,
+      "reviewCount": 2,
+      "sex": "woman",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72634"
+    },
+    {
+      "id": 72696,
+      "name": "이경식",
+      "department": "기계자동차공학과",
+      "university": "울산대학교",
+      "rating": 7.0,
+      "reviewCount": 2,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72696"
+    },
+    {
+      "id": 72746,
+      "name": "이영일",
+      "department": "화학과",
+      "university": "울산대학교",
+      "rating": 7.0,
+      "reviewCount": 2,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72746"
+    },
+    {
+      "id": 72903,
+      "name": "진정호",
+      "department": "첨단소재공학과",
+      "university": "울산대학교",
+      "rating": 7.0,
+      "reviewCount": 2,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72903"
+    },
+    {
+      "id": 72390,
+      "name": "김상원",
+      "department": "글로벌경영학과",
+      "university": "울산대학교",
+      "rating": 7.0,
+      "reviewCount": 1,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72390"
+    },
+    {
+      "id": 72401,
+      "name": "김성근",
+      "department": "경찰학과",
+      "university": "울산대학교",
+      "rating": 7.0,
+      "reviewCount": 1,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72401"
+    },
+    {
+      "id": 72470,
+      "name": "김태현",
+      "department": "물리학과",
+      "university": "울산대학교",
+      "rating": 7.0,
+      "reviewCount": 1,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72470"
+    },
+    {
+      "id": 72500,
+      "name": "다사스",
+      "department": "프랑스어과",
+      "university": "울산대학교",
+      "rating": 7.0,
+      "reviewCount": 1,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72500"
+    },
+    {
+      "id": 112728,
+      "name": "박경희",
+      "department": "간호학과",
+      "university": "울산대학교",
+      "rating": 7.0,
+      "reviewCount": 1,
+      "sex": "woman",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/112728"
+    },
+    {
+      "id": 72565,
+      "name": "백운호",
+      "department": "제품환경디자인학",
+      "university": "울산대학교",
+      "rating": 7.0,
+      "reviewCount": 1,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72565"
+    },
+    {
+      "id": 72575,
+      "name": "서정희",
+      "department": "아동가족복지학과",
+      "university": "울산대학교",
+      "rating": 7.0,
+      "reviewCount": 1,
+      "sex": "woman",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72575"
+    },
+    {
+      "id": 72594,
+      "name": "신건철",
+      "department": "첨단소재공학과",
+      "university": "울산대학교",
+      "rating": 7.0,
+      "reviewCount": 1,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72594"
+    },
+    {
+      "id": 72596,
+      "name": "신동목",
+      "department": "조선해양공학과",
+      "university": "울산대학교",
+      "rating": 7.0,
+      "reviewCount": 1,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72596"
+    },
+    {
+      "id": 72649,
+      "name": "오석영",
+      "department": "건설환경공학과",
+      "university": "울산대학교",
+      "rating": 7.0,
+      "reviewCount": 1,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72649"
+    },
+    {
+      "id": 72663,
+      "name": "우상국",
+      "department": "화학과",
+      "university": "울산대학교",
+      "rating": 7.0,
+      "reviewCount": 1,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72663"
+    },
+    {
+      "id": 72723,
+      "name": "이병호",
+      "department": "건설환경공학과",
+      "university": "울산대학교",
+      "rating": 7.0,
+      "reviewCount": 1,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72723"
+    },
+    {
+      "id": 72735,
+      "name": "이성구",
+      "department": "역사문화학과",
+      "university": "울산대학교",
+      "rating": 7.0,
+      "reviewCount": 1,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72735"
+    },
+    {
+      "id": 72774,
+      "name": "이창수",
+      "department": "제품환경디자인학",
+      "university": "울산대학교",
+      "rating": 7.0,
+      "reviewCount": 1,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72774"
+    },
+    {
+      "id": 72795,
+      "name": "임규찬",
+      "department": "스포츠과학과",
+      "university": "울산대학교",
+      "rating": 7.0,
+      "reviewCount": 1,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72795"
+    },
+    {
+      "id": 72819,
+      "name": "장석원",
+      "department": "생명과학과",
+      "university": "울산대학교",
+      "rating": 7.0,
+      "reviewCount": 1,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72819"
+    },
+    {
+      "id": 72841,
+      "name": "정기효",
+      "department": "산업경영공학",
+      "university": "울산대학교",
+      "rating": 7.0,
+      "reviewCount": 1,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72841"
+    },
+    {
+      "id": 112769,
+      "name": "조은주",
+      "department": "간호학과",
+      "university": "울산대학교",
+      "rating": 7.0,
+      "reviewCount": 1,
+      "sex": "woman",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/112769"
+    },
+    {
+      "id": 72888,
+      "name": "조프리 칼리막",
+      "department": "글로벌경영학과",
+      "university": "울산대학교",
+      "rating": 7.0,
+      "reviewCount": 1,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72888"
+    },
+    {
+      "id": 72963,
+      "name": "홍성목",
+      "department": "일본어과",
+      "university": "울산대학교",
+      "rating": 7.0,
+      "reviewCount": 1,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72963"
+    },
+    {
+      "id": 72971,
+      "name": "홍종욱",
+      "department": "화학과",
+      "university": "울산대학교",
+      "rating": 7.0,
+      "reviewCount": 1,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72971"
+    },
+    {
+      "id": 72365,
+      "name": "김덕수",
+      "department": "철학과",
+      "university": "울산대학교",
+      "rating": 6.8333,
+      "reviewCount": 6,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72365"
+    },
+    {
+      "id": 72789,
+      "name": "이홍희",
+      "department": "전기전자공학과",
+      "university": "울산대학교",
+      "rating": 6.75,
+      "reviewCount": 4,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72789"
+    },
+    {
+      "id": 72879,
+      "name": "조성래",
+      "department": "물리학과",
+      "university": "울산대학교",
+      "rating": 6.75,
+      "reviewCount": 4,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72879"
+    },
+    {
+      "id": 72361,
+      "name": "김남호",
+      "department": "철학과",
+      "university": "울산대학교",
+      "rating": 6.6666,
+      "reviewCount": 6,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72361"
+    },
+    {
+      "id": 72655,
+      "name": "오정금",
+      "department": "아동가족복지학과",
+      "university": "울산대학교",
+      "rating": 6.6666,
+      "reviewCount": 3,
+      "sex": "woman",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72655"
+    },
+    {
+      "id": 72668,
+      "name": "유동우",
+      "department": "경제학과",
+      "university": "울산대학교",
+      "rating": 6.6666,
+      "reviewCount": 3,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72668"
+    },
+    {
+      "id": 72464,
+      "name": "김창준",
+      "department": "철학과",
+      "university": "울산대학교",
+      "rating": 6.5,
+      "reviewCount": 4,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72464"
+    },
+    {
+      "id": 72583,
+      "name": "손영식",
+      "department": "철학과",
+      "university": "울산대학교",
+      "rating": 6.5,
+      "reviewCount": 4,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72583"
+    },
+    {
+      "id": 72838,
+      "name": "전희성",
+      "department": "IT융합전공",
+      "university": "울산대학교",
+      "rating": 6.5,
+      "reviewCount": 4,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72838"
+    },
+    {
+      "id": 72340,
+      "name": "권순호",
+      "department": "프랑스어과",
+      "university": "울산대학교",
+      "rating": 6.5,
+      "reviewCount": 2,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72340"
+    },
+    {
+      "id": 72385,
+      "name": "김병우",
+      "department": "전기전자공학과",
+      "university": "울산대학교",
+      "rating": 6.5,
+      "reviewCount": 2,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72385"
+    },
+    {
+      "id": 72445,
+      "name": "김종국",
+      "department": "경영학과",
+      "university": "울산대학교",
+      "rating": 6.5,
+      "reviewCount": 2,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72445"
+    },
+    {
+      "id": 105078,
+      "name": "이채호",
+      "department": "기타",
+      "university": "울산대학교",
+      "rating": 6.5,
+      "reviewCount": 2,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/105078"
+    },
+    {
+      "id": 72830,
+      "name": "전국서",
+      "department": "영어영문학과",
+      "university": "울산대학교",
+      "rating": 6.5,
+      "reviewCount": 2,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72830"
+    },
+    {
+      "id": 72843,
+      "name": "정문성",
+      "department": "물리학과",
+      "university": "울산대학교",
+      "rating": 6.5,
+      "reviewCount": 2,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72843"
+    },
+    {
+      "id": 72759,
+      "name": "이재기",
+      "department": "경제학과",
+      "university": "울산대학교",
+      "rating": 6.4,
+      "reviewCount": 5,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72759"
+    },
+    {
+      "id": 72944,
+      "name": "한규만",
+      "department": "영어영문학과",
+      "university": "울산대학교",
+      "rating": 6.3333,
+      "reviewCount": 6,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72944"
+    },
+    {
+      "id": 72467,
+      "name": "김태우",
+      "department": "전기전자공학과",
+      "university": "울산대학교",
+      "rating": 6.3333,
+      "reviewCount": 3,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72467"
+    },
+    {
+      "id": 72889,
+      "name": "조형제",
+      "department": "사회복지학과",
+      "university": "울산대학교",
+      "rating": 6.3333,
+      "reviewCount": 3,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72889"
+    },
+    {
+      "id": 72947,
+      "name": "한상진",
+      "department": "사회복지학과",
+      "university": "울산대학교",
+      "rating": 6.3333,
+      "reviewCount": 3,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72947"
+    },
+    {
+      "id": 72704,
+      "name": "이근식",
+      "department": "기계자동차공학과",
+      "university": "울산대학교",
+      "rating": 6.2857,
+      "reviewCount": 7,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72704"
+    },
+    {
+      "id": 72322,
+      "name": "고재문",
+      "department": "산업경영공학",
+      "university": "울산대학교",
+      "rating": 6.25,
+      "reviewCount": 4,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72322"
+    },
+    {
+      "id": 72826,
+      "name": "장준명",
+      "department": "수학과",
+      "university": "울산대학교",
+      "rating": 6.25,
+      "reviewCount": 4,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72826"
+    },
+    {
+      "id": 72902,
+      "name": "진광현",
+      "department": "영어영문학과",
+      "university": "울산대학교",
+      "rating": 6.1666,
+      "reviewCount": 6,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72902"
+    },
+    {
+      "id": 72607,
+      "name": "신용호",
+      "department": "수학과",
+      "university": "울산대학교",
+      "rating": 6.0,
+      "reviewCount": 6,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72607"
+    },
+    {
+      "id": 112713,
+      "name": "이병세",
+      "department": "물리학과",
+      "university": "울산대학교",
+      "rating": 6.0,
+      "reviewCount": 5,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/112713"
+    },
+    {
+      "id": 72955,
+      "name": "허은정",
+      "department": "아동가족복지학과",
+      "university": "울산대학교",
+      "rating": 6.0,
+      "reviewCount": 5,
+      "sex": "woman",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72955"
+    },
+    {
+      "id": 72398,
+      "name": "김선호",
+      "department": "행정학과",
+      "university": "울산대학교",
+      "rating": 6.0,
+      "reviewCount": 3,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72398"
+    },
+    {
+      "id": 72543,
+      "name": "박주철",
+      "department": "산업경영공학",
+      "university": "울산대학교",
+      "rating": 6.0,
+      "reviewCount": 3,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72543"
+    },
+    {
+      "id": 72755,
+      "name": "이인택",
+      "department": "중국어중국학",
+      "university": "울산대학교",
+      "rating": 6.0,
+      "reviewCount": 3,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72755"
+    },
+    {
+      "id": 72960,
+      "name": "현승호",
+      "department": "전기전자공학과",
+      "university": "울산대학교",
+      "rating": 6.0,
+      "reviewCount": 3,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72960"
+    },
+    {
+      "id": 72360,
+      "name": "김기호",
+      "department": "경영학과",
+      "university": "울산대학교",
+      "rating": 6.0,
+      "reviewCount": 2,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72360"
+    },
+    {
+      "id": 72459,
+      "name": "김진",
+      "department": "철학과",
+      "university": "울산대학교",
+      "rating": 6.0,
+      "reviewCount": 2,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72459"
+    },
+    {
+      "id": 112732,
+      "name": "서준용",
+      "department": "경영학과",
+      "university": "울산대학교",
+      "rating": 6.0,
+      "reviewCount": 2,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/112732"
+    },
+    {
+      "id": 72604,
+      "name": "신영한",
+      "department": "물리학과",
+      "university": "울산대학교",
+      "rating": 6.0,
+      "reviewCount": 2,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72604"
+    },
+    {
+      "id": 72635,
+      "name": "양순용",
+      "department": "기계자동차공학과",
+      "university": "울산대학교",
+      "rating": 6.0,
+      "reviewCount": 2,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72635"
+    },
+    {
+      "id": 112688,
+      "name": "김경선",
+      "department": "디지털콘텐츠디자인학과",
+      "university": "울산대학교",
+      "rating": 6.0,
+      "reviewCount": 1,
+      "sex": "woman",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/112688"
+    },
+    {
+      "id": 72482,
+      "name": "김호연",
+      "department": "역사문화학과",
+      "university": "울산대학교",
+      "rating": 6.0,
+      "reviewCount": 1,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72482"
+    },
+    {
+      "id": 105071,
+      "name": "박보영",
+      "department": "기타",
+      "university": "울산대학교",
+      "rating": 6.0,
+      "reviewCount": 1,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/105071"
+    },
+    {
+      "id": 105073,
+      "name": "박재홍",
+      "department": "기타",
+      "university": "울산대학교",
+      "rating": 6.0,
+      "reviewCount": 1,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/105073"
+    },
+    {
+      "id": 112738,
+      "name": "변설원",
+      "department": "경영학과",
+      "university": "울산대학교",
+      "rating": 6.0,
+      "reviewCount": 1,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/112738"
+    },
+    {
+      "id": 72600,
+      "name": "신선향",
+      "department": "일본어과",
+      "university": "울산대학교",
+      "rating": 6.0,
+      "reviewCount": 1,
+      "sex": "woman",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72600"
+    },
+    {
+      "id": 72651,
+      "name": "오승환",
+      "department": "사회복지학과",
+      "university": "울산대학교",
+      "rating": 6.0,
+      "reviewCount": 1,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72651"
+    },
+    {
+      "id": 72682,
+      "name": "유종선",
+      "department": "국제관계학",
+      "university": "울산대학교",
+      "rating": 6.0,
+      "reviewCount": 1,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72682"
+    },
+    {
+      "id": 72731,
+      "name": "이상호",
+      "department": "전기전자공학과",
+      "university": "울산대학교",
+      "rating": 6.0,
+      "reviewCount": 1,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72731"
+    },
+    {
+      "id": 72742,
+      "name": "이승웅",
+      "department": "법학과",
+      "university": "울산대학교",
+      "rating": 6.0,
+      "reviewCount": 1,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72742"
+    },
+    {
+      "id": 112751,
+      "name": "정미희",
+      "department": "교양",
+      "university": "울산대학교",
+      "rating": 6.0,
+      "reviewCount": 1,
+      "sex": "woman",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/112751"
+    },
+    {
+      "id": 112746,
+      "name": "진혜경",
+      "department": "간호학과",
+      "university": "울산대학교",
+      "rating": 6.0,
+      "reviewCount": 1,
+      "sex": "woman",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/112746"
+    },
+    {
+      "id": 72909,
+      "name": "천두만",
+      "department": "기계자동차공학과",
+      "university": "울산대학교",
+      "rating": 6.0,
+      "reviewCount": 1,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72909"
+    },
+    {
+      "id": 72924,
+      "name": "최원준",
+      "department": "산업경영공학",
+      "university": "울산대학교",
+      "rating": 6.0,
+      "reviewCount": 1,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72924"
+    },
+    {
+      "id": 72728,
+      "name": "이상욱",
+      "department": "기계자동차공학과",
+      "university": "울산대학교",
+      "rating": 5.8,
+      "reviewCount": 5,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72728"
+    },
+    {
+      "id": 72488,
+      "name": "김희",
+      "department": "철학과",
+      "university": "울산대학교",
+      "rating": 5.6666,
+      "reviewCount": 9,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72488"
+    },
+    {
+      "id": 72703,
+      "name": "이규철",
+      "department": "전기전자공학과",
+      "university": "울산대학교",
+      "rating": 5.6666,
+      "reviewCount": 3,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72703"
+    },
+    {
+      "id": 113374,
+      "name": "김도희",
+      "department": "행정학과",
+      "university": "울산대학교",
+      "rating": 5.5555,
+      "reviewCount": 9,
+      "sex": "woman",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/113374"
+    },
+    {
+      "id": 72414,
+      "name": "김영주",
+      "department": "아동가족복지학과",
+      "university": "울산대학교",
+      "rating": 5.5,
+      "reviewCount": 6,
+      "sex": "woman",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72414"
+    },
+    {
+      "id": 112981,
+      "name": "박태규",
+      "department": "생명과학과",
+      "university": "울산대학교",
+      "rating": 5.5,
+      "reviewCount": 6,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/112981"
+    },
+    {
+      "id": 72814,
+      "name": "장길상",
+      "department": "경영정보학과",
+      "university": "울산대학교",
+      "rating": 5.5,
+      "reviewCount": 2,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72814"
+    },
+    {
+      "id": 72918,
+      "name": "최상조",
+      "department": "전기전자공학과",
+      "university": "울산대학교",
+      "rating": 5.5,
+      "reviewCount": 2,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72918"
+    },
+    {
+      "id": 72832,
+      "name": "전성표",
+      "department": "사회복지학과",
+      "university": "울산대학교",
+      "rating": 5.4,
+      "reviewCount": 5,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72832"
+    },
+    {
+      "id": 72343,
+      "name": "권영중",
+      "department": "조선해양공학과",
+      "university": "울산대학교",
+      "rating": 5.3333,
+      "reviewCount": 3,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72343"
+    },
+    {
+      "id": 72532,
+      "name": "박양수",
+      "department": "IT융합전공",
+      "university": "울산대학교",
+      "rating": 5.3333,
+      "reviewCount": 3,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72532"
+    },
+    {
+      "id": 72386,
+      "name": "김보현",
+      "department": "철학과",
+      "university": "울산대학교",
+      "rating": 5.2857,
+      "reviewCount": 7,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72386"
+    },
+    {
+      "id": 72323,
+      "name": "공명복",
+      "department": "산업경영공학",
+      "university": "울산대학교",
+      "rating": 5.2,
+      "reviewCount": 5,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72323"
+    },
+    {
+      "id": 72894,
+      "name": "주상윤",
+      "department": "산업경영공학",
+      "university": "울산대학교",
+      "rating": 5.0,
+      "reviewCount": 5,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72894"
+    },
+    {
+      "id": 72900,
+      "name": "지기환",
+      "department": "화학과",
+      "university": "울산대학교",
+      "rating": 5.0,
+      "reviewCount": 3,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72900"
+    },
+    {
+      "id": 72327,
+      "name": "구광렬",
+      "department": "스페인중남미학",
+      "university": "울산대학교",
+      "rating": 5.0,
+      "reviewCount": 2,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72327"
+    },
+    {
+      "id": 72335,
+      "name": "구태만",
+      "department": "전기전자공학과",
+      "university": "울산대학교",
+      "rating": 5.0,
+      "reviewCount": 2,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72335"
+    },
+    {
+      "id": 72534,
+      "name": "박용태",
+      "department": "경영정보학과",
+      "university": "울산대학교",
+      "rating": 5.0,
+      "reviewCount": 2,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72534"
+    },
+    {
+      "id": 113044,
+      "name": "전필여",
+      "department": "교양",
+      "university": "울산대학교",
+      "rating": 5.0,
+      "reviewCount": 2,
+      "sex": "woman",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/113044"
+    },
+    {
+      "id": 72346,
+      "name": "권우영",
+      "department": "건축학",
+      "university": "울산대학교",
+      "rating": 5.0,
+      "reviewCount": 1,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72346"
+    },
+    {
+      "id": 72440,
+      "name": "김재홍",
+      "department": "행정학과",
+      "university": "울산대학교",
+      "rating": 5.0,
+      "reviewCount": 1,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72440"
+    },
+    {
+      "id": 72441,
+      "name": "김정근",
+      "department": "주거환경학과",
+      "university": "울산대학교",
+      "rating": 5.0,
+      "reviewCount": 1,
+      "sex": "woman",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72441"
+    },
+    {
+      "id": 112768,
+      "name": "김지수",
+      "department": "간호학과",
+      "university": "울산대학교",
+      "rating": 5.0,
+      "reviewCount": 1,
+      "sex": "woman",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/112768"
+    },
+    {
+      "id": 72621,
+      "name": "안병찬",
+      "department": "생명과학과",
+      "university": "울산대학교",
+      "rating": 5.0,
+      "reviewCount": 1,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72621"
+    },
+    {
+      "id": 72709,
+      "name": "이동수",
+      "department": "수학과",
+      "university": "울산대학교",
+      "rating": 5.0,
+      "reviewCount": 1,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72709"
+    },
+    {
+      "id": 72768,
+      "name": "이종석",
+      "department": "건설환경공학과",
+      "university": "울산대학교",
+      "rating": 5.0,
+      "reviewCount": 1,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72768"
+    },
+    {
+      "id": 72812,
+      "name": "장경식",
+      "department": "기계자동차공학과",
+      "university": "울산대학교",
+      "rating": 5.0,
+      "reviewCount": 1,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72812"
+    },
+    {
+      "id": 72905,
+      "name": "차수원",
+      "department": "건설환경공학과",
+      "university": "울산대학교",
+      "rating": 5.0,
+      "reviewCount": 1,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72905"
+    },
+    {
+      "id": 72908,
+      "name": "채규인",
+      "department": "수학과",
+      "university": "울산대학교",
+      "rating": 5.0,
+      "reviewCount": 1,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72908"
+    },
+    {
+      "id": 72437,
+      "name": "김자원",
+      "department": "회계학과",
+      "university": "울산대학교",
+      "rating": 4.6666,
+      "reviewCount": 3,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72437"
+    },
+    {
+      "id": 72762,
+      "name": "이재원",
+      "department": "제품환경디자인학",
+      "university": "울산대학교",
+      "rating": 4.5,
+      "reviewCount": 2,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72762"
+    },
+    {
+      "id": 72765,
+      "name": "이정철",
+      "department": "IT융합전공",
+      "university": "울산대학교",
+      "rating": 4.5,
+      "reviewCount": 2,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72765"
+    },
+    {
+      "id": 72807,
+      "name": "임창빈",
+      "department": "제품환경디자인학",
+      "university": "울산대학교",
+      "rating": 4.5,
+      "reviewCount": 2,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72807"
+    },
+    {
+      "id": 72780,
+      "name": "이태훈",
+      "department": "수학과",
+      "university": "울산대학교",
+      "rating": 4.2,
+      "reviewCount": 5,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72780"
+    },
+    {
+      "id": 72528,
+      "name": "박순",
+      "department": "첨단소재공학과",
+      "university": "울산대학교",
+      "rating": 4.0,
+      "reviewCount": 4,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72528"
+    },
+    {
+      "id": 72820,
+      "name": "장선영",
+      "department": "수학과",
+      "university": "울산대학교",
+      "rating": 4.0,
+      "reviewCount": 4,
+      "sex": "woman",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72820"
+    },
+    {
+      "id": 72913,
+      "name": "최광우",
+      "department": "일본어과",
+      "university": "울산대학교",
+      "rating": 4.0,
+      "reviewCount": 4,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72913"
+    },
+    {
+      "id": 72308,
+      "name": "강석구",
+      "department": "경제학과",
+      "university": "울산대학교",
+      "rating": 4.0,
+      "reviewCount": 3,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72308"
+    },
+    {
+      "id": 72895,
+      "name": "주석재",
+      "department": "기계자동차공학과",
+      "university": "울산대학교",
+      "rating": 4.0,
+      "reviewCount": 3,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72895"
+    },
+    {
+      "id": 72345,
+      "name": "권용혁",
+      "department": "철학과",
+      "university": "울산대학교",
+      "rating": 4.0,
+      "reviewCount": 2,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72345"
+    },
+    {
+      "id": 72868,
+      "name": "정한모",
+      "department": "화학과",
+      "university": "울산대학교",
+      "rating": 4.0,
+      "reviewCount": 2,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72868"
+    },
+    {
+      "id": 72383,
+      "name": "김병기",
+      "department": "첨단소재공학과",
+      "university": "울산대학교",
+      "rating": 4.0,
+      "reviewCount": 1,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72383"
+    },
+    {
+      "id": 112694,
+      "name": "김정운",
+      "department": "교양",
+      "university": "울산대학교",
+      "rating": 4.0,
+      "reviewCount": 1,
+      "sex": "woman",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/112694"
+    },
+    {
+      "id": 72506,
+      "name": "류석환",
+      "department": "화학과",
+      "university": "울산대학교",
+      "rating": 4.0,
+      "reviewCount": 1,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72506"
+    },
+    {
+      "id": 72533,
+      "name": "박영식",
+      "department": "수학과",
+      "university": "울산대학교",
+      "rating": 4.0,
+      "reviewCount": 1,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72533"
+    },
+    {
+      "id": 72555,
+      "name": "박혜원",
+      "department": "아동가족복지학과",
+      "university": "울산대학교",
+      "rating": 4.0,
+      "reviewCount": 1,
+      "sex": "woman",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72555"
+    },
+    {
+      "id": 72560,
+      "name": "배재학",
+      "department": "IT융합전공",
+      "university": "울산대학교",
+      "rating": 4.0,
+      "reviewCount": 1,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72560"
+    },
+    {
+      "id": 72640,
+      "name": "엄영호",
+      "department": "물리학과",
+      "university": "울산대학교",
+      "rating": 4.0,
+      "reviewCount": 1,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72640"
+    },
+    {
+      "id": 72657,
+      "name": "옥철영",
+      "department": "IT융합전공",
+      "university": "울산대학교",
+      "rating": 4.0,
+      "reviewCount": 1,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72657"
+    },
+    {
+      "id": 72736,
+      "name": "이성균",
+      "department": "사회복지학과",
+      "university": "울산대학교",
+      "rating": 4.0,
+      "reviewCount": 1,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72736"
+    },
+    {
+      "id": 72764,
+      "name": "이정민",
+      "department": "피아노과",
+      "university": "울산대학교",
+      "rating": 4.0,
+      "reviewCount": 1,
+      "sex": "woman",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72764"
+    },
+    {
+      "id": 72853,
+      "name": "정우일",
+      "department": "경찰학과",
+      "university": "울산대학교",
+      "rating": 4.0,
+      "reviewCount": 1,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72853"
+    },
+    {
+      "id": 72881,
+      "name": "조신욱",
+      "department": "물리학과",
+      "university": "울산대학교",
+      "rating": 4.0,
+      "reviewCount": 1,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72881"
+    },
+    {
+      "id": 72910,
+      "name": "천면중",
+      "department": "경영정보학과",
+      "university": "울산대학교",
+      "rating": 4.0,
+      "reviewCount": 1,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72910"
+    },
+    {
+      "id": 72715,
+      "name": "이목인",
+      "department": "기계자동차공학과",
+      "university": "울산대학교",
+      "rating": 3.5555,
+      "reviewCount": 18,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72715"
+    },
+    {
+      "id": 72316,
+      "name": "강태호",
+      "department": "수학과",
+      "university": "울산대학교",
+      "rating": 3.5,
+      "reviewCount": 2,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72316"
+    },
+    {
+      "id": 112743,
+      "name": "김민지",
+      "department": "간호학과",
+      "university": "울산대학교",
+      "rating": 3.5,
+      "reviewCount": 2,
+      "sex": "woman",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/112743"
+    },
+    {
+      "id": 72397,
+      "name": "김선중",
+      "department": "주거환경학과",
+      "university": "울산대학교",
+      "rating": 3.5,
+      "reviewCount": 2,
+      "sex": "woman",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72397"
+    },
+    {
+      "id": 72603,
+      "name": "신연재",
+      "department": "국제관계학",
+      "university": "울산대학교",
+      "rating": 3.5,
+      "reviewCount": 2,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72603"
+    },
+    {
+      "id": 72520,
+      "name": "박동렬",
+      "department": "경영학과",
+      "university": "울산대학교",
+      "rating": 3.3333,
+      "reviewCount": 6,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72520"
+    },
+    {
+      "id": 113041,
+      "name": "소원영",
+      "department": "교양",
+      "university": "울산대학교",
+      "rating": 3.25,
+      "reviewCount": 4,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/113041"
+    },
+    {
+      "id": 72871,
+      "name": "조강현",
+      "department": "전기전자공학과",
+      "university": "울산대학교",
+      "rating": 3.0,
+      "reviewCount": 4,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72871"
+    },
+    {
+      "id": 72321,
+      "name": "고인수",
+      "department": "영어영문학과",
+      "university": "울산대학교",
+      "rating": 3.0,
+      "reviewCount": 1,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72321"
+    },
+    {
+      "id": 112715,
+      "name": "고현숙",
+      "department": "영어영문학과",
+      "university": "울산대학교",
+      "rating": 3.0,
+      "reviewCount": 1,
+      "sex": "woman",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/112715"
+    },
+    {
+      "id": 72493,
+      "name": "남하균",
+      "department": "법학과",
+      "university": "울산대학교",
+      "rating": 3.0,
+      "reviewCount": 1,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72493"
+    },
+    {
+      "id": 112697,
+      "name": "손행미",
+      "department": "간호학과",
+      "university": "울산대학교",
+      "rating": 3.0,
+      "reviewCount": 1,
+      "sex": "woman",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/112697"
+    },
+    {
+      "id": 72597,
+      "name": "신만균",
+      "department": "생명과학과",
+      "university": "울산대학교",
+      "rating": 3.0,
+      "reviewCount": 1,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72597"
+    },
+    {
+      "id": 112756,
+      "name": "제민지",
+      "department": "간호학과",
+      "university": "울산대학교",
+      "rating": 3.0,
+      "reviewCount": 1,
+      "sex": "woman",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/112756"
+    },
+    {
+      "id": 72966,
+      "name": "홍순철",
+      "department": "물리학과",
+      "university": "울산대학교",
+      "rating": 3.0,
+      "reviewCount": 1,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72966"
+    },
+    {
+      "id": 72324,
+      "name": "공영민",
+      "department": "첨단소재공학과",
+      "university": "울산대학교",
+      "rating": 2.6666,
+      "reviewCount": 3,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72324"
+    },
+    {
+      "id": 112687,
+      "name": "김현석",
+      "department": "수학과",
+      "university": "울산대학교",
+      "rating": 2.6666,
+      "reviewCount": 3,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/112687"
+    },
+    {
+      "id": 72432,
+      "name": "김이두",
+      "department": "건축공학과",
+      "university": "울산대학교",
+      "rating": 2.5,
+      "reviewCount": 2,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72432"
+    },
+    {
+      "id": 72514,
+      "name": "박경실",
+      "department": "중국어중국학",
+      "university": "울산대학교",
+      "rating": 2.4,
+      "reviewCount": 5,
+      "sex": "woman",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72514"
+    },
+    {
+      "id": 72524,
+      "name": "박삼수",
+      "department": "중국어중국학",
+      "university": "울산대학교",
+      "rating": 2.0,
+      "reviewCount": 2,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72524"
+    },
+    {
+      "id": 72547,
+      "name": "박창권",
+      "department": "산업경영공학",
+      "university": "울산대학교",
+      "rating": 2.0,
+      "reviewCount": 1,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72547"
+    },
+    {
+      "id": 72591,
+      "name": "송현섭",
+      "department": "기계자동차공학과",
+      "university": "울산대학교",
+      "rating": 2.0,
+      "reviewCount": 1,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72591"
+    },
+    {
+      "id": 112840,
+      "name": "이선재",
+      "department": "동양화과",
+      "university": "울산대학교",
+      "rating": 2.0,
+      "reviewCount": 1,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/112840"
+    },
+    {
+      "id": 72824,
+      "name": "장종권",
+      "department": "IT융합전공",
+      "university": "울산대학교",
+      "rating": 2.0,
+      "reviewCount": 1,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72824"
+    },
+    {
+      "id": 72429,
+      "name": "김윤태",
+      "department": "회계학과",
+      "university": "울산대학교",
+      "rating": 1.5,
+      "reviewCount": 2,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72429"
+    },
+    {
+      "id": 72370,
+      "name": "김돈한",
+      "department": "디지털콘텐츠디자인학과",
+      "university": "울산대학교",
+      "rating": 1.0,
+      "reviewCount": 1,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72370"
+    },
+    {
+      "id": 112703,
+      "name": "김인자",
+      "department": "동양화과",
+      "university": "울산대학교",
+      "rating": 1.0,
+      "reviewCount": 1,
+      "sex": "woman",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/112703"
+    },
+    {
+      "id": 72439,
+      "name": "김재균",
+      "department": "산업경영공학",
+      "university": "울산대학교",
+      "rating": 1.0,
+      "reviewCount": 1,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72439"
+    },
+    {
+      "id": 105069,
+      "name": "박경경",
+      "department": "기타",
+      "university": "울산대학교",
+      "rating": 1.0,
+      "reviewCount": 1,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/105069"
+    },
+    {
+      "id": 105074,
+      "name": "박지연",
+      "department": "기타",
+      "university": "울산대학교",
+      "rating": 1.0,
+      "reviewCount": 1,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/105074"
+    },
+    {
+      "id": 105075,
+      "name": "백소리",
+      "department": "기타",
+      "university": "울산대학교",
+      "rating": 1.0,
+      "reviewCount": 1,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/105075"
+    },
+    {
+      "id": 112765,
+      "name": "안남용",
+      "department": "동양화과",
+      "university": "울산대학교",
+      "rating": 1.0,
+      "reviewCount": 1,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/112765"
+    },
+    {
+      "id": 72714,
+      "name": "이명준",
+      "department": "IT융합전공",
+      "university": "울산대학교",
+      "rating": 1.0,
+      "reviewCount": 1,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72714"
+    },
+    {
+      "id": 72770,
+      "name": "이주성",
+      "department": "조선해양공학과",
+      "university": "울산대학교",
+      "rating": 1.0,
+      "reviewCount": 1,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72770"
+    },
+    {
+      "id": 72785,
+      "name": "이형일",
+      "department": "화학과",
+      "university": "울산대학교",
+      "rating": 1.0,
+      "reviewCount": 1,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72785"
+    },
+    {
+      "id": 72856,
+      "name": "정유선",
+      "department": "국어국문학과",
+      "university": "울산대학교",
+      "rating": 1.0,
+      "reviewCount": 1,
+      "sex": "woman",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72856"
+    },
+    {
+      "id": 113043,
+      "name": "최은정",
+      "department": "동양화과",
+      "university": "울산대학교",
+      "rating": 1.0,
+      "reviewCount": 1,
+      "sex": "woman",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/113043"
+    },
+    {
+      "id": 72306,
+      "name": "강민지",
+      "department": "의생명과학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "woman",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72306"
+    },
+    {
+      "id": 72307,
+      "name": "강상욱",
+      "department": "생명과학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72307"
+    },
+    {
+      "id": 72309,
+      "name": "강석봉",
+      "department": "건축공학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72309"
+    },
+    {
+      "id": 72310,
+      "name": "강석현",
+      "department": "산업경영공학",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72310"
+    },
+    {
+      "id": 72311,
+      "name": "강성구",
+      "department": "화학공학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72311"
+    },
+    {
+      "id": 72312,
+      "name": "강영환",
+      "department": "건축학",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72312"
+    },
+    {
+      "id": 72314,
+      "name": "강종열",
+      "department": "경영학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72314"
+    },
+    {
+      "id": 72319,
+      "name": "고승국",
+      "department": "물리학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72319"
+    },
+    {
+      "id": 72328,
+      "name": "구교남",
+      "department": "항공우주공학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72328"
+    },
+    {
+      "id": 72329,
+      "name": "구교인",
+      "department": "의공학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72329"
+    },
+    {
+      "id": 72330,
+      "name": "구승엽",
+      "department": "IT융합전공",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72330"
+    },
+    {
+      "id": 72331,
+      "name": "구영모",
+      "department": "인문사회의학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72331"
+    },
+    {
+      "id": 72332,
+      "name": "구인수",
+      "department": "전기전자공학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72332"
+    },
+    {
+      "id": 72336,
+      "name": "권명희",
+      "department": "주거환경학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "woman",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72336"
+    },
+    {
+      "id": 72337,
+      "name": "권병석",
+      "department": "생명과학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72337"
+    },
+    {
+      "id": 72338,
+      "name": "권상수",
+      "department": "건축공학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72338"
+    },
+    {
+      "id": 72339,
+      "name": "권송오",
+      "department": "전기전자공학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72339"
+    },
+    {
+      "id": 72341,
+      "name": "권영근",
+      "department": "IT융합전공",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72341"
+    },
+    {
+      "id": 72342,
+      "name": "권영순",
+      "department": "첨단소재공학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72342"
+    },
+    {
+      "id": 72347,
+      "name": "권정성",
+      "department": "성악과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72347"
+    },
+    {
+      "id": 72348,
+      "name": "권춘봉",
+      "department": "생명과학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "woman",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72348"
+    },
+    {
+      "id": 72349,
+      "name": "권혁순",
+      "department": "IT융합전공",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72349"
+    },
+    {
+      "id": 72353,
+      "name": "김근숙",
+      "department": "아동가족복지학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "woman",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72353"
+    },
+    {
+      "id": 72354,
+      "name": "김기령",
+      "department": "서양화",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "woman",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72354"
+    },
+    {
+      "id": 72355,
+      "name": "김기문",
+      "department": "화학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72355"
+    },
+    {
+      "id": 72356,
+      "name": "김기수",
+      "department": "실내공간디자인학",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72356"
+    },
+    {
+      "id": 72358,
+      "name": "김기한",
+      "department": "스포츠과학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72358"
+    },
+    {
+      "id": 72359,
+      "name": "김기현",
+      "department": "실내공간디자인학",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72359"
+    },
+    {
+      "id": 72362,
+      "name": "김내리",
+      "department": "관현악과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "woman",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72362"
+    },
+    {
+      "id": 72363,
+      "name": "김대용",
+      "department": "조소과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72363"
+    },
+    {
+      "id": 72364,
+      "name": "김대일",
+      "department": "첨단소재공학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72364"
+    },
+    {
+      "id": 72366,
+      "name": "김도윤",
+      "department": "제품환경디자인학",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72366"
+    },
+    {
+      "id": 72367,
+      "name": "김도일",
+      "department": "경영학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72367"
+    },
+    {
+      "id": 72369,
+      "name": "김도호",
+      "department": "기계자동차공학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72369"
+    },
+    {
+      "id": 72371,
+      "name": "김동영",
+      "department": "국제관계학",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72371"
+    },
+    {
+      "id": 72373,
+      "name": "김동원",
+      "department": "전기전자공학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72373"
+    },
+    {
+      "id": 72374,
+      "name": "김동필",
+      "department": "법학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72374"
+    },
+    {
+      "id": 72375,
+      "name": "김동해",
+      "department": "첨단소재공학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72375"
+    },
+    {
+      "id": 72376,
+      "name": "김동호",
+      "department": "뇌과학학",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72376"
+    },
+    {
+      "id": 72377,
+      "name": "김두겸",
+      "department": "행정학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72377"
+    },
+    {
+      "id": 72378,
+      "name": "김명균",
+      "department": "IT융합전공",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72378"
+    },
+    {
+      "id": 72379,
+      "name": "김민수",
+      "department": "법학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72379"
+    },
+    {
+      "id": 72380,
+      "name": "김민형",
+      "department": "수학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72380"
+    },
+    {
+      "id": 72382,
+      "name": "김범관",
+      "department": "실내공간디자인학",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72382"
+    },
+    {
+      "id": 72388,
+      "name": "김복만",
+      "department": "산업경영공학",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72388"
+    },
+    {
+      "id": 112736,
+      "name": "김상언",
+      "department": "경영학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/112736"
+    },
+    {
+      "id": 72391,
+      "name": "김상훈",
+      "department": "영어영문학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72391"
+    },
+    {
+      "id": 72393,
+      "name": "김석택",
+      "department": "산업경영공학",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72393"
+    },
+    {
+      "id": 72394,
+      "name": "김선규",
+      "department": "첨단소재공학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72394"
+    },
+    {
+      "id": 72399,
+      "name": "김섭",
+      "department": "서양화",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72399"
+    },
+    {
+      "id": 72400,
+      "name": "김성곤",
+      "department": "디지털콘텐츠디자인학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72400"
+    },
+    {
+      "id": 72402,
+      "name": "김성대",
+      "department": "스포츠과학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72402"
+    },
+    {
+      "id": 72403,
+      "name": "김성득",
+      "department": "건설환경공학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72403"
+    },
+    {
+      "id": 72405,
+      "name": "김성환",
+      "department": "전기전자공학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72405"
+    },
+    {
+      "id": 72407,
+      "name": "김세원",
+      "department": "섬유디자인학",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72407"
+    },
+    {
+      "id": 72408,
+      "name": "김수홍",
+      "department": "건설환경공학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72408"
+    },
+    {
+      "id": 72409,
+      "name": "김승석",
+      "department": "경제학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72409"
+    },
+    {
+      "id": 72410,
+      "name": "김승환",
+      "department": "약리학",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72410"
+    },
+    {
+      "id": 72411,
+      "name": "김승후",
+      "department": "생화학분자학",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72411"
+    },
+    {
+      "id": 72412,
+      "name": "김언배",
+      "department": "섬유디자인학",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72412"
+    },
+    {
+      "id": 72413,
+      "name": "김연민",
+      "department": "산업경영공학",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72413"
+    },
+    {
+      "id": 72415,
+      "name": "김영현",
+      "department": "시각디자인학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72415"
+    },
+    {
+      "id": 72416,
+      "name": "김영홍",
+      "department": "첨단소재공학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72416"
+    },
+    {
+      "id": 72417,
+      "name": "김영훈",
+      "department": "약리학",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72417"
+    },
+    {
+      "id": 72418,
+      "name": "김용섭",
+      "department": "의생명과학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72418"
+    },
+    {
+      "id": 72421,
+      "name": "김용인",
+      "department": "수학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72421"
+    },
+    {
+      "id": 72422,
+      "name": "김웅규",
+      "department": "IT융합전공",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72422"
+    },
+    {
+      "id": 72423,
+      "name": "김원호",
+      "department": "일본어과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72423"
+    },
+    {
+      "id": 72424,
+      "name": "김유겸",
+      "department": "미생물학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72424"
+    },
+    {
+      "id": 72427,
+      "name": "김윤수",
+      "department": "전기전자공학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72427"
+    },
+    {
+      "id": 72430,
+      "name": "김을년",
+      "department": "조선해양공학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72430"
+    },
+    {
+      "id": 72431,
+      "name": "김의정",
+      "department": "화학공학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72431"
+    },
+    {
+      "id": 72433,
+      "name": "김이평",
+      "department": "섬유디자인학",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72433"
+    },
+    {
+      "id": 72434,
+      "name": "김익현",
+      "department": "건설환경공학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72434"
+    },
+    {
+      "id": 72435,
+      "name": "김인숙",
+      "department": "영어영문학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "woman",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72435"
+    },
+    {
+      "id": 72438,
+      "name": "김장한",
+      "department": "인문사회의학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72438"
+    },
+    {
+      "id": 72442,
+      "name": "김정기",
+      "department": "스포츠과학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72442"
+    },
+    {
+      "id": 72443,
+      "name": "김정대",
+      "department": "물리학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72443"
+    },
+    {
+      "id": 72444,
+      "name": "김정제",
+      "department": "조선해양공학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72444"
+    },
+    {
+      "id": 72446,
+      "name": "김종면",
+      "department": "IT융합전공",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72446"
+    },
+    {
+      "id": 72447,
+      "name": "김종설",
+      "department": "생명과학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72447"
+    },
+    {
+      "id": 72448,
+      "name": "김종수",
+      "department": "전기전자공학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72448"
+    },
+    {
+      "id": 72450,
+      "name": "김종환",
+      "department": "전기전자공학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72450"
+    },
+    {
+      "id": 72451,
+      "name": "김주식",
+      "department": "경찰학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72451"
+    },
+    {
+      "id": 72454,
+      "name": "김준상",
+      "department": "전기전자공학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72454"
+    },
+    {
+      "id": 72455,
+      "name": "김지수",
+      "department": "산업경영공학",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72455"
+    },
+    {
+      "id": 72457,
+      "name": "김지은",
+      "department": "영어영문학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "woman",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72457"
+    },
+    {
+      "id": 72458,
+      "name": "김지현",
+      "department": "조소과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72458"
+    },
+    {
+      "id": 72461,
+      "name": "김진천",
+      "department": "첨단소재공학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72461"
+    },
+    {
+      "id": 72462,
+      "name": "김차종",
+      "department": "IT융합전공",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72462"
+    },
+    {
+      "id": 72463,
+      "name": "김창선",
+      "department": "사회복지학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72463"
+    },
+    {
+      "id": 72465,
+      "name": "김철",
+      "department": "전기전자공학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72465"
+    },
+    {
+      "id": 72468,
+      "name": "김태읍",
+      "department": "산업경영공학",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72468"
+    },
+    {
+      "id": 72469,
+      "name": "김태진",
+      "department": "피아노과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72469"
+    },
+    {
+      "id": 72472,
+      "name": "김한호",
+      "department": "전기전자공학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72472"
+    },
+    {
+      "id": 72474,
+      "name": "김헌규",
+      "department": "건축학",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72474"
+    },
+    {
+      "id": 72475,
+      "name": "김헌식",
+      "department": "의생명과학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72475"
+    },
+    {
+      "id": 72477,
+      "name": "김현철",
+      "department": "전기전자공학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72477"
+    },
+    {
+      "id": 72478,
+      "name": "김형민",
+      "department": "전기전자공학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72478"
+    },
+    {
+      "id": 72479,
+      "name": "김형석",
+      "department": "건설환경공학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72479"
+    },
+    {
+      "id": 72480,
+      "name": "김혜민",
+      "department": "관현악과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "woman",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72480"
+    },
+    {
+      "id": 72481,
+      "name": "김혜원",
+      "department": "약리학",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "woman",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72481"
+    },
+    {
+      "id": 72483,
+      "name": "김홍명",
+      "department": "섬유디자인학",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72483"
+    },
+    {
+      "id": 72484,
+      "name": "김화정",
+      "department": "예방의학",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "woman",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72484"
+    },
+    {
+      "id": 72485,
+      "name": "김효정",
+      "department": "생명과학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "woman",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72485"
+    },
+    {
+      "id": 72486,
+      "name": "김훈",
+      "department": "건축학",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72486"
+    },
+    {
+      "id": 72487,
+      "name": "김흥식",
+      "department": "첨단소재공학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72487"
+    },
+    {
+      "id": 72489,
+      "name": "김희성",
+      "department": "전기전자공학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72489"
+    },
+    {
+      "id": 72490,
+      "name": "나상균",
+      "department": "물리학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72490"
+    },
+    {
+      "id": 72491,
+      "name": "남종철",
+      "department": "스포츠과학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72491"
+    },
+    {
+      "id": 72495,
+      "name": "노상양",
+      "department": "전기전자공학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72495"
+    },
+    {
+      "id": 112690,
+      "name": "노태석",
+      "department": "경영학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/112690"
+    },
+    {
+      "id": 72501,
+      "name": "다칸 벌다리",
+      "department": "국제관계학",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72501"
+    },
+    {
+      "id": 72504,
+      "name": "류광선",
+      "department": "화학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72504"
+    },
+    {
+      "id": 72505,
+      "name": "류근갑",
+      "department": "화학공학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72505"
+    },
+    {
+      "id": 72507,
+      "name": "류성규",
+      "department": "관현악과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72507"
+    },
+    {
+      "id": 72508,
+      "name": "민덕기",
+      "department": "건설환경공학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72508"
+    },
+    {
+      "id": 72510,
+      "name": "민석진",
+      "department": "건설환경공학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72510"
+    },
+    {
+      "id": 72511,
+      "name": "박건",
+      "department": "수학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72511"
+    },
+    {
+      "id": 72513,
+      "name": "박경신",
+      "department": "국어국문학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72513"
+    },
+    {
+      "id": 72515,
+      "name": "박경희",
+      "department": "관현악과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "woman",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72515"
+    },
+    {
+      "id": 72516,
+      "name": "박계순",
+      "department": "스포츠과학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72516"
+    },
+    {
+      "id": 72518,
+      "name": "박노석",
+      "department": "시각디자인학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72518"
+    },
+    {
+      "id": 72519,
+      "name": "박노식",
+      "department": "조선해양공학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72519"
+    },
+    {
+      "id": 72522,
+      "name": "박병욱",
+      "department": "화학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72522"
+    },
+    {
+      "id": 72523,
+      "name": "박병희",
+      "department": "영어영문학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72523"
+    },
+    {
+      "id": 72525,
+      "name": "박상윤",
+      "department": "화학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72525"
+    },
+    {
+      "id": 72527,
+      "name": "박수철",
+      "department": "경영학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72527"
+    },
+    {
+      "id": 72530,
+      "name": "박순식",
+      "department": "전기전자공학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72530"
+    },
+    {
+      "id": 72531,
+      "name": "박양동",
+      "department": "프랑스어과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72531"
+    },
+    {
+      "id": 72535,
+      "name": "박원규",
+      "department": "건설환경공학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72535"
+    },
+    {
+      "id": 72536,
+      "name": "박원심",
+      "department": "전기전자공학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72536"
+    },
+    {
+      "id": 72537,
+      "name": "박재현",
+      "department": "전기전자공학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72537"
+    },
+    {
+      "id": 72540,
+      "name": "박종목",
+      "department": "화학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72540"
+    },
+    {
+      "id": 72541,
+      "name": "박종희",
+      "department": "경영학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72541"
+    },
+    {
+      "id": 72544,
+      "name": "박주현",
+      "department": "의학교육학",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72544"
+    },
+    {
+      "id": 72545,
+      "name": "박지홍",
+      "department": "전기전자공학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72545"
+    },
+    {
+      "id": 72549,
+      "name": "박창하",
+      "department": "건설환경공학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72549"
+    },
+    {
+      "id": 72550,
+      "name": "박철현",
+      "department": "건축학",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72550"
+    },
+    {
+      "id": 72551,
+      "name": "박치모",
+      "department": "조선해양공학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72551"
+    },
+    {
+      "id": 72552,
+      "name": "박태원",
+      "department": "철학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72552"
+    },
+    {
+      "id": 72553,
+      "name": "박해숙",
+      "department": "건축학",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72553"
+    },
+    {
+      "id": 72554,
+      "name": "박현철",
+      "department": "산업경영공학",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72554"
+    },
+    {
+      "id": 72556,
+      "name": "박흥석",
+      "department": "건설환경공학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72556"
+    },
+    {
+      "id": 72557,
+      "name": "박희진",
+      "department": "주거환경학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "woman",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72557"
+    },
+    {
+      "id": 72558,
+      "name": "배영일",
+      "department": "화학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72558"
+    },
+    {
+      "id": 72561,
+      "name": "배호준",
+      "department": "항공우주공학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72561"
+    },
+    {
+      "id": 72562,
+      "name": "백수현",
+      "department": "관현악과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "woman",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72562"
+    },
+    {
+      "id": 72563,
+      "name": "백수활",
+      "department": "프랑스어과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72563"
+    },
+    {
+      "id": 72564,
+      "name": "백승훈",
+      "department": "생명과학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72564"
+    },
+    {
+      "id": 72567,
+      "name": "변용위",
+      "department": "화학공학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72567"
+    },
+    {
+      "id": 72568,
+      "name": "샤지브 샤헤드 우딘 아흐메드",
+      "department": "생명과학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72568"
+    },
+    {
+      "id": 72569,
+      "name": "서대석",
+      "department": "국어국문학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72569"
+    },
+    {
+      "id": 72570,
+      "name": "서말순",
+      "department": "물리학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72570"
+    },
+    {
+      "id": 72571,
+      "name": "서상혁",
+      "department": "화학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72571"
+    },
+    {
+      "id": 72572,
+      "name": "서수영",
+      "department": "실내공간디자인학",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "woman",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72572"
+    },
+    {
+      "id": 72574,
+      "name": "서정훈",
+      "department": "역사문화학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72574"
+    },
+    {
+      "id": 72576,
+      "name": "성범중",
+      "department": "국어국문학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72576"
+    },
+    {
+      "id": 72578,
+      "name": "성학용",
+      "department": "경영학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72578"
+    },
+    {
+      "id": 72580,
+      "name": "소래섭",
+      "department": "국어국문학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72580"
+    },
+    {
+      "id": 72581,
+      "name": "손기영",
+      "department": "건축공학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72581"
+    },
+    {
+      "id": 72582,
+      "name": "손도락",
+      "department": "프랑스어과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72582"
+    },
+    {
+      "id": 72584,
+      "name": "손재경",
+      "department": "의생명과학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72584"
+    },
+    {
+      "id": 72585,
+      "name": "송규영",
+      "department": "생화학분자학",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "woman",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72585"
+    },
+    {
+      "id": 72586,
+      "name": "송병기",
+      "department": "건축공학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72586"
+    },
+    {
+      "id": 72588,
+      "name": "송영섭",
+      "department": "의생명과학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72588"
+    },
+    {
+      "id": 72589,
+      "name": "송원철",
+      "department": "건설환경공학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72589"
+    },
+    {
+      "id": 72590,
+      "name": "송지호",
+      "department": "전기전자공학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72590"
+    },
+    {
+      "id": 72593,
+      "name": "신각수",
+      "department": "국제관계학",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72593"
+    },
+    {
+      "id": 72595,
+      "name": "신동명",
+      "department": "의생명과학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72595"
+    },
+    {
+      "id": 72598,
+      "name": "신상용",
+      "department": "첨단소재공학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72598"
+    },
+    {
+      "id": 72599,
+      "name": "신선영",
+      "department": "실내공간디자인학",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "woman",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72599"
+    },
+    {
+      "id": 72601,
+      "name": "신성철",
+      "department": "물리학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72601"
+    },
+    {
+      "id": 72605,
+      "name": "신용철",
+      "department": "역사문화학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72605"
+    },
+    {
+      "id": 72609,
+      "name": "신은우",
+      "department": "화학공학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72609"
+    },
+    {
+      "id": 72610,
+      "name": "신재억",
+      "department": "건축학",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72610"
+    },
+    {
+      "id": 72611,
+      "name": "신지철",
+      "department": "항공우주공학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72611"
+    },
+    {
+      "id": 72612,
+      "name": "신지현",
+      "department": "시각디자인학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "woman",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72612"
+    },
+    {
+      "id": 72616,
+      "name": "심인보",
+      "department": "수학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72616"
+    },
+    {
+      "id": 72617,
+      "name": "심종엽",
+      "department": "화학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72617"
+    },
+    {
+      "id": 72618,
+      "name": "아치리 탄제",
+      "department": "물리학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72618"
+    },
+    {
+      "id": 72619,
+      "name": "안경관",
+      "department": "기계자동차공학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72619"
+    },
+    {
+      "id": 72620,
+      "name": "안만수",
+      "department": "스포츠과학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72620"
+    },
+    {
+      "id": 72623,
+      "name": "안소진",
+      "department": "국어국문학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "woman",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72623"
+    },
+    {
+      "id": 72624,
+      "name": "안시영",
+      "department": "조선해양공학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72624"
+    },
+    {
+      "id": 72625,
+      "name": "안장윤",
+      "department": "영어영문학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72625"
+    },
+    {
+      "id": 72626,
+      "name": "안정수",
+      "department": "화학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72626"
+    },
+    {
+      "id": 72627,
+      "name": "안종구",
+      "department": "전기전자공학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72627"
+    },
+    {
+      "id": 72628,
+      "name": "안형근",
+      "department": "IT융합전공",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72628"
+    },
+    {
+      "id": 72629,
+      "name": "안형택",
+      "department": "조선해양공학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72629"
+    },
+    {
+      "id": 72631,
+      "name": "양박달치",
+      "department": "조선해양공학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72631"
+    },
+    {
+      "id": 72632,
+      "name": "양상현",
+      "department": "역사문화학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72632"
+    },
+    {
+      "id": 72633,
+      "name": "양성봉",
+      "department": "화학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72633"
+    },
+    {
+      "id": 72636,
+      "name": "양승범",
+      "department": "건축공학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72636"
+    },
+    {
+      "id": 72638,
+      "name": "어거스틴최",
+      "department": "생명과학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72638"
+    },
+    {
+      "id": 72639,
+      "name": "엄성호",
+      "department": "스포츠과학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72639"
+    },
+    {
+      "id": 72641,
+      "name": "여인호",
+      "department": "관현악과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72641"
+    },
+    {
+      "id": 72644,
+      "name": "오경모",
+      "department": "산업경영공학",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72644"
+    },
+    {
+      "id": 72646,
+      "name": "오민정",
+      "department": "실내공간디자인학",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "woman",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72646"
+    },
+    {
+      "id": 72647,
+      "name": "오민환",
+      "department": "조선해양공학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72647"
+    },
+    {
+      "id": 72648,
+      "name": "오석균",
+      "department": "프랑스어과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72648"
+    },
+    {
+      "id": 72650,
+      "name": "오승호",
+      "department": "제품환경디자인학",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72650"
+    },
+    {
+      "id": 72652,
+      "name": "오원근",
+      "department": "전기전자공학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72652"
+    },
+    {
+      "id": 72653,
+      "name": "오윤복",
+      "department": "피아노과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "woman",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72653"
+    },
+    {
+      "id": 72660,
+      "name": "왕징",
+      "department": "국제관계학",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "woman",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72660"
+    },
+    {
+      "id": 72661,
+      "name": "요한 다슨",
+      "department": "영어영문학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72661"
+    },
+    {
+      "id": 72662,
+      "name": "우민정",
+      "department": "스포츠과학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "woman",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72662"
+    },
+    {
+      "id": 72664,
+      "name": "우지환",
+      "department": "의공학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72664"
+    },
+    {
+      "id": 72666,
+      "name": "유걸",
+      "department": "건축학",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72666"
+    },
+    {
+      "id": 72667,
+      "name": "유광식",
+      "department": "화학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72667"
+    },
+    {
+      "id": 72669,
+      "name": "유동진",
+      "department": "프랑스어과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72669"
+    },
+    {
+      "id": 72670,
+      "name": "유룡",
+      "department": "화학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72670"
+    },
+    {
+      "id": 72671,
+      "name": "유명희",
+      "department": "건축학",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "woman",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72671"
+    },
+    {
+      "id": 72672,
+      "name": "유미선",
+      "department": "화학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "woman",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72672"
+    },
+    {
+      "id": 72673,
+      "name": "유범준",
+      "department": "경영학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72673"
+    },
+    {
+      "id": 72676,
+      "name": "유용상",
+      "department": "스포츠과학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72676"
+    },
+    {
+      "id": 72677,
+      "name": "유용주",
+      "department": "첨단소재공학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72677"
+    },
+    {
+      "id": 72678,
+      "name": "유용현",
+      "department": "건축학",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72678"
+    },
+    {
+      "id": 72679,
+      "name": "유익근",
+      "department": "화학공학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72679"
+    },
+    {
+      "id": 72680,
+      "name": "유익상",
+      "department": "첨단소재공학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72680"
+    },
+    {
+      "id": 72681,
+      "name": "유정수",
+      "department": "조선해양공학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72681"
+    },
+    {
+      "id": 72683,
+      "name": "유필재",
+      "department": "국어국문학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72683"
+    },
+    {
+      "id": 113375,
+      "name": "유형석",
+      "department": "의공학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/113375"
+    },
+    {
+      "id": 72684,
+      "name": "유호천",
+      "department": "건축공학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72684"
+    },
+    {
+      "id": 72685,
+      "name": "윤구식",
+      "department": "화학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72685"
+    },
+    {
+      "id": 72688,
+      "name": "윤병국",
+      "department": "물리학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72688"
+    },
+    {
+      "id": 72689,
+      "name": "윤석길",
+      "department": "첨단소재공학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72689"
+    },
+    {
+      "id": 72690,
+      "name": "윤석훈",
+      "department": "IT융합전공",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72690"
+    },
+    {
+      "id": 72691,
+      "name": "윤승용",
+      "department": "뇌과학학",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72691"
+    },
+    {
+      "id": 72692,
+      "name": "윤지나",
+      "department": "관현악과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "woman",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72692"
+    },
+    {
+      "id": 72693,
+      "name": "윤호섭",
+      "department": "관현악과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72693"
+    },
+    {
+      "id": 72694,
+      "name": "이강식",
+      "department": "건축학",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72694"
+    },
+    {
+      "id": 72695,
+      "name": "이겸주",
+      "department": "역사문화학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72695"
+    },
+    {
+      "id": 72697,
+      "name": "이광우",
+      "department": "스포츠과학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72697"
+    },
+    {
+      "id": 72699,
+      "name": "이광희",
+      "department": "건축학",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72699"
+    },
+    {
+      "id": 72700,
+      "name": "이규백",
+      "department": "실내공간디자인학",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72700"
+    },
+    {
+      "id": 72701,
+      "name": "이규성",
+      "department": "건축공학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72701"
+    },
+    {
+      "id": 72702,
+      "name": "이규옥",
+      "department": "시각디자인학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72702"
+    },
+    {
+      "id": 72705,
+      "name": "이기정",
+      "department": "IT융합전공",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72705"
+    },
+    {
+      "id": 72706,
+      "name": "이도원",
+      "department": "수학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72706"
+    },
+    {
+      "id": 72707,
+      "name": "이도현",
+      "department": "산업경영공학",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72707"
+    },
+    {
+      "id": 72708,
+      "name": "이동기",
+      "department": "조선해양공학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72708"
+    },
+    {
+      "id": 72710,
+      "name": "이동우",
+      "department": "관현악과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72710"
+    },
+    {
+      "id": 72711,
+      "name": "이명섭",
+      "department": "의생명과학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72711"
+    },
+    {
+      "id": 72712,
+      "name": "이명수",
+      "department": "국제관계학",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72712"
+    },
+    {
+      "id": 72713,
+      "name": "이명재",
+      "department": "IT융합전공",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72713"
+    },
+    {
+      "id": 72716,
+      "name": "이무송",
+      "department": "예방의학",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72716"
+    },
+    {
+      "id": 72717,
+      "name": "이무진",
+      "department": "화학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72717"
+    },
+    {
+      "id": 72718,
+      "name": "이민형",
+      "department": "화학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72718"
+    },
+    {
+      "id": 72719,
+      "name": "이병규",
+      "department": "건설환경공학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72719"
+    },
+    {
+      "id": 72720,
+      "name": "이병룡",
+      "department": "기계자동차공학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72720"
+    },
+    {
+      "id": 114250,
+      "name": "이복임",
+      "department": "교양",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/114250"
+    },
+    {
+      "id": 72724,
+      "name": "이상구",
+      "department": "화학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72724"
+    },
+    {
+      "id": 72725,
+      "name": "이상봉",
+      "department": "철학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72725"
+    },
+    {
+      "id": 72726,
+      "name": "이상엽",
+      "department": "철학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72726"
+    },
+    {
+      "id": 72727,
+      "name": "이상완",
+      "department": "건설환경공학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72727"
+    },
+    {
+      "id": 72729,
+      "name": "이상일",
+      "department": "예방의학",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72729"
+    },
+    {
+      "id": 72732,
+      "name": "이선애",
+      "department": "사회복지학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "woman",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72732"
+    },
+    {
+      "id": 72733,
+      "name": "이선재",
+      "department": "동양화과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72733"
+    },
+    {
+      "id": 72737,
+      "name": "이성희",
+      "department": "사회복지학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "woman",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72737"
+    },
+    {
+      "id": 72738,
+      "name": "이수동",
+      "department": "IT융합전공",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72738"
+    },
+    {
+      "id": 72739,
+      "name": "이수목",
+      "department": "첨단소재공학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72739"
+    },
+    {
+      "id": 72741,
+      "name": "이승구",
+      "department": "화학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72741"
+    },
+    {
+      "id": 72744,
+      "name": "이영백",
+      "department": "전기전자공학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72744"
+    },
+    {
+      "id": 72745,
+      "name": "이영아",
+      "department": "건축공학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "woman",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72745"
+    },
+    {
+      "id": 72747,
+      "name": "이영희",
+      "department": "전기전자공학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72747"
+    },
+    {
+      "id": 72748,
+      "name": "이완진",
+      "department": "건설환경공학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72748"
+    },
+    {
+      "id": 72749,
+      "name": "이외찬",
+      "department": "기계자동차공학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72749"
+    },
+    {
+      "id": 72750,
+      "name": "이용두",
+      "department": "경제학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72750"
+    },
+    {
+      "id": 72751,
+      "name": "이우수",
+      "department": "서양화",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "woman",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72751"
+    },
+    {
+      "id": 72752,
+      "name": "이유현",
+      "department": "피아노과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "woman",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72752"
+    },
+    {
+      "id": 72753,
+      "name": "이은섭",
+      "department": "국어국문학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72753"
+    },
+    {
+      "id": 72756,
+      "name": "이일우",
+      "department": "IT융합전공",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72756"
+    },
+    {
+      "id": 72758,
+      "name": "이장욱",
+      "department": "경찰학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72758"
+    },
+    {
+      "id": 72760,
+      "name": "이재담",
+      "department": "인문사회의학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72760"
+    },
+    {
+      "id": 72761,
+      "name": "이재신",
+      "department": "첨단소재공학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72761"
+    },
+    {
+      "id": 112764,
+      "name": "이정은",
+      "department": "동양화과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/112764"
+    },
+    {
+      "id": 72769,
+      "name": "이종섭",
+      "department": "경찰학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72769"
+    },
+    {
+      "id": 72773,
+      "name": "이진호",
+      "department": "행정학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72773"
+    },
+    {
+      "id": 72775,
+      "name": "이창환",
+      "department": "의생명과학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72775"
+    },
+    {
+      "id": 72776,
+      "name": "이철우",
+      "department": "산업경영공학",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72776"
+    },
+    {
+      "id": 72777,
+      "name": "이충호",
+      "department": "시각디자인학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72777"
+    },
+    {
+      "id": 72778,
+      "name": "이태경",
+      "department": "디지털콘텐츠디자인학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72778"
+    },
+    {
+      "id": 72779,
+      "name": "이태호",
+      "department": "전기전자공학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72779"
+    },
+    {
+      "id": 72781,
+      "name": "이학성",
+      "department": "화학공학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72781"
+    },
+    {
+      "id": 72782,
+      "name": "이한준",
+      "department": "스포츠과학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72782"
+    },
+    {
+      "id": 72783,
+      "name": "이현석",
+      "department": "IT융합전공",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72783"
+    },
+    {
+      "id": 72786,
+      "name": "이혜경",
+      "department": "약리학",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "woman",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72786"
+    },
+    {
+      "id": 72787,
+      "name": "이호수",
+      "department": "생화학분자학",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "woman",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72787"
+    },
+    {
+      "id": 72788,
+      "name": "이호창",
+      "department": "실내공간디자인학",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72788"
+    },
+    {
+      "id": 72790,
+      "name": "이희국",
+      "department": "전기전자공학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72790"
+    },
+    {
+      "id": 72791,
+      "name": "이희균",
+      "department": "회계학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72791"
+    },
+    {
+      "id": 72792,
+      "name": "이희란",
+      "department": "미생물학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "woman",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72792"
+    },
+    {
+      "id": 72793,
+      "name": "이희태",
+      "department": "스포츠과학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72793"
+    },
+    {
+      "id": 72796,
+      "name": "임도형",
+      "department": "조선해양공학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72796"
+    },
+    {
+      "id": 72798,
+      "name": "임성섭",
+      "department": "화학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72798"
+    },
+    {
+      "id": 72800,
+      "name": "임승구",
+      "department": "관현악과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72800"
+    },
+    {
+      "id": 72801,
+      "name": "임영재",
+      "department": "서양화",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72801"
+    },
+    {
+      "id": 72803,
+      "name": "임재봉",
+      "department": "생명과학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72803"
+    },
+    {
+      "id": 72804,
+      "name": "임재홍",
+      "department": "국제관계학",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72804"
+    },
+    {
+      "id": 72805,
+      "name": "임주원",
+      "department": "건설환경공학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72805"
+    },
+    {
+      "id": 72806,
+      "name": "임지순",
+      "department": "물리학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72806"
+    },
+    {
+      "id": 72808,
+      "name": "임채헌",
+      "department": "생리학",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72808"
+    },
+    {
+      "id": 72809,
+      "name": "임충신",
+      "department": "건축학",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72809"
+    },
+    {
+      "id": 72810,
+      "name": "임호",
+      "department": "화학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72810"
+    },
+    {
+      "id": 72811,
+      "name": "장경기",
+      "department": "영어영문학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72811"
+    },
+    {
+      "id": 72813,
+      "name": "장광대",
+      "department": "건설환경공학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72813"
+    },
+    {
+      "id": 72815,
+      "name": "장남수",
+      "department": "영어영문학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72815"
+    },
+    {
+      "id": 72816,
+      "name": "장만석",
+      "department": "건설환경공학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72816"
+    },
+    {
+      "id": 72817,
+      "name": "장병익",
+      "department": "경제학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72817"
+    },
+    {
+      "id": 72818,
+      "name": "장상용",
+      "department": "전기전자공학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72818"
+    },
+    {
+      "id": 72821,
+      "name": "장수환",
+      "department": "의생명과학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72821"
+    },
+    {
+      "id": 72822,
+      "name": "장연진",
+      "department": "생리학",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "woman",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72822"
+    },
+    {
+      "id": 72823,
+      "name": "장은주",
+      "department": "의생명과학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "woman",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72823"
+    },
+    {
+      "id": 72827,
+      "name": "장지인",
+      "department": "회계학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72827"
+    },
+    {
+      "id": 72828,
+      "name": "재해곤",
+      "department": "수학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72828"
+    },
+    {
+      "id": 72831,
+      "name": "전성복",
+      "department": "시각디자인학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72831"
+    },
+    {
+      "id": 72833,
+      "name": "전은채",
+      "department": "첨단소재공학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72833"
+    },
+    {
+      "id": 72834,
+      "name": "전종엽",
+      "department": "기계자동차공학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72834"
+    },
+    {
+      "id": 72836,
+      "name": "전혜경",
+      "department": "법학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "woman",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72836"
+    },
+    {
+      "id": 72837,
+      "name": "전호태",
+      "department": "역사문화학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72837"
+    },
+    {
+      "id": 72839,
+      "name": "정경남",
+      "department": "조선해양공학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72839"
+    },
+    {
+      "id": 72842,
+      "name": "정노택",
+      "department": "조선해양공학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72842"
+    },
+    {
+      "id": 72844,
+      "name": "정민기",
+      "department": "실내공간디자인학",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72844"
+    },
+    {
+      "id": 72846,
+      "name": "정선희",
+      "department": "법학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "woman",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72846"
+    },
+    {
+      "id": 72848,
+      "name": "정성훈",
+      "department": "스포츠과학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72848"
+    },
+    {
+      "id": 72850,
+      "name": "정영우",
+      "department": "수학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "woman",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72850"
+    },
+    {
+      "id": 72852,
+      "name": "정용환",
+      "department": "전기전자공학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72852"
+    },
+    {
+      "id": 72854,
+      "name": "정욱장",
+      "department": "조소과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72854"
+    },
+    {
+      "id": 72855,
+      "name": "정운채",
+      "department": "전기전자공학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72855"
+    },
+    {
+      "id": 72857,
+      "name": "정은",
+      "department": "첨단소재공학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72857"
+    },
+    {
+      "id": 72858,
+      "name": "정은화",
+      "department": "실내공간디자인학",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "woman",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72858"
+    },
+    {
+      "id": 72860,
+      "name": "정재욱",
+      "department": "디지털콘텐츠디자인학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72860"
+    },
+    {
+      "id": 72862,
+      "name": "정종희",
+      "department": "산업경영공학",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72862"
+    },
+    {
+      "id": 72864,
+      "name": "정지원",
+      "department": "제품환경디자인학",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72864"
+    },
+    {
+      "id": 72865,
+      "name": "정진석",
+      "department": "화학공학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72865"
+    },
+    {
+      "id": 72866,
+      "name": "정천석",
+      "department": "전기전자공학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72866"
+    },
+    {
+      "id": 72869,
+      "name": "정헌택",
+      "department": "생명과학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72869"
+    },
+    {
+      "id": 72870,
+      "name": "제갈종건",
+      "department": "화학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72870"
+    },
+    {
+      "id": 72872,
+      "name": "조규철",
+      "department": "철학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72872"
+    },
+    {
+      "id": 72873,
+      "name": "조대용",
+      "department": "스포츠과학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72873"
+    },
+    {
+      "id": 72874,
+      "name": "조동성",
+      "department": "경영학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72874"
+    },
+    {
+      "id": 72875,
+      "name": "조민우",
+      "department": "예방의학",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72875"
+    },
+    {
+      "id": 72876,
+      "name": "조벽",
+      "department": "경영학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72876"
+    },
+    {
+      "id": 72880,
+      "name": "조성우",
+      "department": "IT융합전공",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72880"
+    },
+    {
+      "id": 72882,
+      "name": "조영걸",
+      "department": "미생물학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72882"
+    },
+    {
+      "id": 72883,
+      "name": "조은화",
+      "department": "기계자동차공학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72883"
+    },
+    {
+      "id": 72886,
+      "name": "조지운",
+      "department": "산업경영공학",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72886"
+    },
+    {
+      "id": 72887,
+      "name": "조창열",
+      "department": "항공우주공학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72887"
+    },
+    {
+      "id": 72891,
+      "name": "조희연",
+      "department": "경영정보학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72891"
+    },
+    {
+      "id": 72892,
+      "name": "졸리",
+      "department": "생명과학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72892"
+    },
+    {
+      "id": 72893,
+      "name": "주봉현",
+      "department": "건설환경공학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72893"
+    },
+    {
+      "id": 72897,
+      "name": "주은수",
+      "department": "사회복지학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72897"
+    },
+    {
+      "id": 72898,
+      "name": "주철현",
+      "department": "미생물학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72898"
+    },
+    {
+      "id": 72901,
+      "name": "지영준",
+      "department": "의공학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72901"
+    },
+    {
+      "id": 72904,
+      "name": "징호식",
+      "department": "건설환경공학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72904"
+    },
+    {
+      "id": 72906,
+      "name": "차윤겸",
+      "department": "실내공간디자인학",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72906"
+    },
+    {
+      "id": 72907,
+      "name": "차진종",
+      "department": "전기전자공학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72907"
+    },
+    {
+      "id": 72911,
+      "name": "천희곤",
+      "department": "첨단소재공학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72911"
+    },
+    {
+      "id": 72912,
+      "name": "최경철",
+      "department": "의생명과학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72912"
+    },
+    {
+      "id": 72914,
+      "name": "최기룡",
+      "department": "생명과학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72914"
+    },
+    {
+      "id": 72915,
+      "name": "최길남",
+      "department": "수학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72915"
+    },
+    {
+      "id": 72917,
+      "name": "최봉준",
+      "department": "조선해양공학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72917"
+    },
+    {
+      "id": 72921,
+      "name": "최순철",
+      "department": "의생명과학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72921"
+    },
+    {
+      "id": 72922,
+      "name": "최용열",
+      "department": "기계자동차공학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72922"
+    },
+    {
+      "id": 72923,
+      "name": "최원묵",
+      "department": "화학공학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72923"
+    },
+    {
+      "id": 72925,
+      "name": "최원호",
+      "department": "전기전자공학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72925"
+    },
+    {
+      "id": 72927,
+      "name": "최은영",
+      "department": "의생명과학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "woman",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72927"
+    },
+    {
+      "id": 72928,
+      "name": "최은정",
+      "department": "동양화과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "woman",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72928"
+    },
+    {
+      "id": 72929,
+      "name": "최재천",
+      "department": "생명과학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72929"
+    },
+    {
+      "id": 72933,
+      "name": "최한석",
+      "department": "생리학",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72933"
+    },
+    {
+      "id": 72934,
+      "name": "최혜선",
+      "department": "생명과학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "woman",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72934"
+    },
+    {
+      "id": 72936,
+      "name": "추상목",
+      "department": "수학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72936"
+    },
+    {
+      "id": 72937,
+      "name": "코마츠 아사미",
+      "department": "일본어과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "woman",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72937"
+    },
+    {
+      "id": 72938,
+      "name": "클라우디아 미리암 찬타카 산체스",
+      "department": "스페인중남미학",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72938"
+    },
+    {
+      "id": 72940,
+      "name": "하리나",
+      "department": "중국어중국학",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "woman",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72940"
+    },
+    {
+      "id": 72941,
+      "name": "하원",
+      "department": "서양화",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "woman",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72941"
+    },
+    {
+      "id": 72943,
+      "name": "하철근",
+      "department": "항공우주공학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72943"
+    },
+    {
+      "id": 72945,
+      "name": "한민구",
+      "department": "전기전자공학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72945"
+    },
+    {
+      "id": 72948,
+      "name": "한상혜",
+      "department": "섬유디자인학",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72948"
+    },
+    {
+      "id": 72950,
+      "name": "한진원",
+      "department": "건축학",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72950"
+    },
+    {
+      "id": 72951,
+      "name": "함원국",
+      "department": "조선해양공학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72951"
+    },
+    {
+      "id": 72952,
+      "name": "허승현",
+      "department": "화학공학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72952"
+    },
+    {
+      "id": 72956,
+      "name": "허재완",
+      "department": "생화학분자학",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72956"
+    },
+    {
+      "id": 72957,
+      "name": "허정석",
+      "department": "IT융합전공",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72957"
+    },
+    {
+      "id": 72958,
+      "name": "허주행",
+      "department": "첨단소재공학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72958"
+    },
+    {
+      "id": 72959,
+      "name": "허황",
+      "department": "화학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72959"
+    },
+    {
+      "id": 72961,
+      "name": "호르헤 다니엘 멘도사 푸에르타스",
+      "department": "스페인중남미학",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72961"
+    },
+    {
+      "id": 72962,
+      "name": "홍병수",
+      "department": "전기전자공학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72962"
+    },
+    {
+      "id": 72964,
+      "name": "홍성준",
+      "department": "법학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72964"
+    },
+    {
+      "id": 72965,
+      "name": "홍성진",
+      "department": "스포츠과학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72965"
+    },
+    {
+      "id": 72969,
+      "name": "홍인기",
+      "department": "화학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72969"
+    },
+    {
+      "id": 72970,
+      "name": "홍일태",
+      "department": "실내공간디자인학",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72970"
+    },
+    {
+      "id": 72972,
+      "name": "홍혜남",
+      "department": "해부학",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "woman",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72972"
+    },
+    {
+      "id": 72974,
+      "name": "황강준",
+      "department": "경찰학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72974"
+    },
+    {
+      "id": 72975,
+      "name": "황길환",
+      "department": "화학과",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72975"
+    },
+    {
+      "id": 72976,
+      "name": "황승준",
+      "department": "해부학",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72976"
+    },
+    {
+      "id": 72977,
+      "name": "황열순",
+      "department": "중국어중국학",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "man",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72977"
+    },
+    {
+      "id": 72978,
+      "name": "황온유",
+      "department": "생화학분자학",
+      "university": "울산대학교",
+      "rating": 0.0,
+      "reviewCount": 0,
+      "sex": "woman",
+      "sourceUrl": "https://www.starteacher.co.kr/professor/tutors/72978"
+    }
+  ]
+}
